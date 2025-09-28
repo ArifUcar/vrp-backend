@@ -11,6 +11,16 @@
   to = "/.netlify/functions/:splat"
   status = 200
 
+[[redirects]]
+  from = "/swagger/"
+  to = "/.netlify/functions/swagger"
+  status = 200
+
+[[redirects]]
+  from = "/swagger.json"
+  to = "/.netlify/functions/swagger.json"
+  status = 200
+
 [dev]
   command = "python app.py"
   port = 5000
