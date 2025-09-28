@@ -1,5 +1,5 @@
 [build]
-  command = "pip install -r requirements.txt"
+  command = "pip install -r requirements.txt && echo 'Build completed'"
   functions = "functions"
   publish = "."
 
