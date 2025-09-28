@@ -1,0 +1,1043 @@
+2025-09-28 11:45:29,271 - werkzeug - WARNING -  * Debugger is active!
+2025-09-28 11:45:29,276 - werkzeug - INFO -  * Debugger PIN: 881-199-026
+2025-09-28 11:45:33,306 - werkzeug - INFO -  * Detected change in 'D:\\React-Proje\\vrp-solver\\backend\\app.py', reloading
+2025-09-28 11:45:34,904 - werkzeug - WARNING -  * Debugger is active!
+2025-09-28 11:45:34,912 - werkzeug - INFO -  * Debugger PIN: 881-199-026
+2025-09-28 11:45:35,946 - werkzeug - INFO -  * Detected change in 'D:\\React-Proje\\vrp-solver\\backend\\app.py', reloading
+2025-09-28 11:45:36,660 - werkzeug - WARNING -  * Debugger is active!
+2025-09-28 11:45:36,664 - werkzeug - INFO -  * Debugger PIN: 881-199-026
+2025-09-28 11:45:41,697 - werkzeug - INFO -  * Detected change in 'D:\\React-Proje\\vrp-solver\\backend\\app.py', reloading
+2025-09-28 11:45:42,831 - werkzeug - WARNING -  * Debugger is active!
+2025-09-28 11:45:42,835 - werkzeug - INFO -  * Debugger PIN: 881-199-026
+2025-09-28 11:45:43,630 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 11:45:43] "[31m[1mPOST /api/directions HTTP/1.1[0m" 400 -
+2025-09-28 11:45:47,870 - werkzeug - INFO -  * Detected change in 'D:\\React-Proje\\vrp-solver\\backend\\app.py', reloading
+2025-09-28 11:45:48,818 - werkzeug - WARNING -  * Debugger is active!
+2025-09-28 11:45:48,824 - werkzeug - INFO -  * Debugger PIN: 881-199-026
+2025-09-28 11:45:53,855 - werkzeug - INFO -  * Detected change in 'D:\\React-Proje\\vrp-solver\\backend\\app.py', reloading
+2025-09-28 11:45:54,720 - werkzeug - WARNING -  * Debugger is active!
+2025-09-28 11:45:54,725 - werkzeug - INFO -  * Debugger PIN: 881-199-026
+2025-09-28 11:45:55,744 - werkzeug - INFO -  * Detected change in 'D:\\React-Proje\\vrp-solver\\backend\\app.py', reloading
+2025-09-28 11:45:56,852 - werkzeug - WARNING -  * Debugger is active!
+2025-09-28 11:45:56,856 - werkzeug - INFO -  * Debugger PIN: 881-199-026
+2025-09-28 11:46:04,896 - werkzeug - INFO -  * Detected change in 'D:\\React-Proje\\vrp-solver\\backend\\app.py', reloading
+2025-09-28 11:46:05,748 - werkzeug - WARNING -  * Debugger is active!
+2025-09-28 11:46:05,752 - werkzeug - INFO -  * Debugger PIN: 881-199-026
+2025-09-28 11:46:14,793 - werkzeug - INFO -  * Detected change in 'D:\\React-Proje\\vrp-solver\\backend\\app.py', reloading
+2025-09-28 11:46:15,506 - werkzeug - WARNING -  * Debugger is active!
+2025-09-28 11:46:15,510 - werkzeug - INFO -  * Debugger PIN: 881-199-026
+2025-09-28 11:46:27,562 - werkzeug - INFO -  * Detected change in 'D:\\React-Proje\\vrp-solver\\backend\\app.py', reloading
+2025-09-28 11:46:28,512 - werkzeug - WARNING -  * Debugger is active!
+2025-09-28 11:46:28,517 - werkzeug - INFO -  * Debugger PIN: 881-199-026
+2025-09-28 11:46:47,589 - werkzeug - INFO -  * Detected change in 'D:\\React-Proje\\vrp-solver\\backend\\app.py', reloading
+2025-09-28 11:46:49,133 - werkzeug - WARNING -  * Debugger is active!
+2025-09-28 11:46:49,139 - werkzeug - INFO -  * Debugger PIN: 881-199-026
+2025-09-28 11:46:52,162 - werkzeug - INFO -  * Detected change in 'D:\\React-Proje\\vrp-solver\\backend\\app.py', reloading
+2025-09-28 11:46:53,291 - werkzeug - WARNING -  * Debugger is active!
+2025-09-28 11:46:53,296 - werkzeug - INFO -  * Debugger PIN: 881-199-026
+2025-09-28 11:47:01,336 - werkzeug - INFO -  * Detected change in 'D:\\React-Proje\\vrp-solver\\backend\\app.py', reloading
+2025-09-28 11:47:02,494 - werkzeug - WARNING -  * Debugger is active!
+2025-09-28 11:47:02,498 - werkzeug - INFO -  * Debugger PIN: 881-199-026
+2025-09-28 11:47:05,516 - werkzeug - INFO -  * Detected change in 'D:\\React-Proje\\vrp-solver\\backend\\app.py', reloading
+2025-09-28 11:47:06,734 - werkzeug - WARNING -  * Debugger is active!
+2025-09-28 11:47:06,741 - werkzeug - INFO -  * Debugger PIN: 881-199-026
+2025-09-28 11:47:07,766 - werkzeug - INFO -  * Detected change in 'D:\\React-Proje\\vrp-solver\\backend\\app.py', reloading
+2025-09-28 11:47:08,854 - werkzeug - WARNING -  * Debugger is active!
+2025-09-28 11:47:08,858 - werkzeug - INFO -  * Debugger PIN: 881-199-026
+2025-09-28 11:47:12,884 - werkzeug - INFO -  * Detected change in 'D:\\React-Proje\\vrp-solver\\backend\\app.py', reloading
+2025-09-28 11:47:13,999 - __main__ - INFO - Advanced VRP Backend starting...
+2025-09-28 11:47:14,022 - werkzeug - WARNING -  * Debugger is active!
+2025-09-28 11:47:14,026 - werkzeug - INFO -  * Debugger PIN: 881-199-026
+2025-09-28 11:47:26,066 - werkzeug - INFO -  * Detected change in 'D:\\React-Proje\\vrp-solver\\backend\\app.py', reloading
+2025-09-28 11:47:26,625 - __main__ - INFO - Advanced VRP Backend starting...
+2025-09-28 11:47:26,647 - werkzeug - WARNING -  * Debugger is active!
+2025-09-28 11:47:26,651 - werkzeug - INFO -  * Debugger PIN: 881-199-026
+2025-09-28 11:47:38,692 - werkzeug - INFO -  * Detected change in 'D:\\React-Proje\\vrp-solver\\backend\\models\\__init__.py', reloading
+2025-09-28 11:47:39,488 - __main__ - INFO - Advanced VRP Backend starting...
+2025-09-28 11:47:39,526 - werkzeug - WARNING -  * Debugger is active!
+2025-09-28 11:47:39,531 - werkzeug - INFO -  * Debugger PIN: 881-199-026
+2025-09-28 11:47:47,572 - werkzeug - INFO -  * Detected change in 'D:\\React-Proje\\vrp-solver\\backend\\models\\vrp_models.py', reloading
+2025-09-28 11:47:48,323 - __main__ - INFO - Advanced VRP Backend starting...
+2025-09-28 11:47:48,358 - werkzeug - WARNING -  * Debugger is active!
+2025-09-28 11:47:48,362 - werkzeug - INFO -  * Debugger PIN: 881-199-026
+2025-09-28 11:49:11,690 - werkzeug - INFO -  * Detected change in 'D:\\React-Proje\\vrp-solver\\backend\\services\\maps_service.py', reloading
+2025-09-28 11:49:12,534 - __main__ - INFO - Advanced VRP Backend starting...
+2025-09-28 11:49:12,565 - werkzeug - WARNING -  * Debugger is active!
+2025-09-28 11:49:12,569 - werkzeug - INFO -  * Debugger PIN: 881-199-026
+2025-09-28 11:50:06,874 - werkzeug - INFO -  * Detected change in 'D:\\React-Proje\\vrp-solver\\backend\\config\\__init__.py', reloading
+2025-09-28 11:50:07,753 - __main__ - INFO - Advanced VRP Backend starting...
+2025-09-28 11:50:07,789 - werkzeug - WARNING -  * Debugger is active!
+2025-09-28 11:50:07,794 - werkzeug - INFO -  * Debugger PIN: 881-199-026
+2025-09-28 11:50:37,981 - werkzeug - INFO -  * Detected change in 'D:\\React-Proje\\vrp-solver\\backend\\app.py', reloading
+2025-09-28 11:54:15,764 - __main__ - INFO - Advanced VRP Backend (Modular) starting...
+2025-09-28 11:54:16,664 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.110:5000
+2025-09-28 11:54:16,664 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-09-28 11:54:16,667 - werkzeug - INFO -  * Restarting with stat
+2025-09-28 11:54:17,416 - __main__ - INFO - Advanced VRP Backend (Modular) starting...
+2025-09-28 11:54:17,435 - werkzeug - WARNING -  * Debugger is active!
+2025-09-28 11:54:17,438 - werkzeug - INFO -  * Debugger PIN: 881-199-026
+2025-09-28 11:54:23,989 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 11:54:23] "GET /swagger/ HTTP/1.1" 200 -
+2025-09-28 11:54:24,286 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 11:54:24] "[36mGET /swaggerui/droid-sans.css HTTP/1.1[0m" 304 -
+2025-09-28 11:54:24,324 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 11:54:24] "[36mGET /swaggerui/swagger-ui-bundle.js HTTP/1.1[0m" 304 -
+2025-09-28 11:54:24,325 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 11:54:24] "[36mGET /swaggerui/swagger-ui.css HTTP/1.1[0m" 304 -
+2025-09-28 11:54:24,326 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 11:54:24] "[36mGET /swaggerui/swagger-ui-standalone-preset.js HTTP/1.1[0m" 304 -
+2025-09-28 11:54:24,657 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 11:54:24] "GET /api/swagger.json HTTP/1.1" 200 -
+2025-09-28 11:54:24,966 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 11:54:24] "[36mGET /swaggerui/favicon-32x32.png HTTP/1.1[0m" 304 -
+2025-09-28 11:54:45,637 - werkzeug - INFO -  * Detected change in 'D:\\React-Proje\\vrp-solver\\backend\\controllers\\vrp_controller.py', reloading
+2025-09-28 11:54:45,702 - werkzeug - INFO -  * Restarting with stat
+2025-09-28 11:54:46,290 - __main__ - INFO - Advanced VRP Backend (Modular) starting...
+2025-09-28 11:54:46,309 - werkzeug - WARNING -  * Debugger is active!
+2025-09-28 11:54:46,312 - werkzeug - INFO -  * Debugger PIN: 881-199-026
+2025-09-28 11:58:03,496 - werkzeug - INFO -  * Detected change in 'D:\\React-Proje\\vrp-solver\\backend\\models\\tracking_models.py', reloading
+2025-09-28 11:58:03,539 - werkzeug - INFO -  * Restarting with stat
+2025-09-28 11:58:04,238 - __main__ - INFO - Advanced VRP Backend (Modular) starting...
+2025-09-28 11:58:04,262 - werkzeug - WARNING -  * Debugger is active!
+2025-09-28 11:58:04,266 - werkzeug - INFO -  * Debugger PIN: 881-199-026
+2025-09-28 12:09:46,505 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 12:09:46] "OPTIONS /api/vrp/solve HTTP/1.1" 200 -
+2025-09-28 12:09:46,844 - controllers.vrp_controller - WARNING - Validation errors: ['Customer 1: Invalid time window start time', 'Customer 1: Invalid time window end time']
+2025-09-28 12:09:46,845 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 12:09:46] "POST /api/vrp/solve HTTP/1.1" 200 -
+2025-09-28 12:09:56,367 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 12:09:56] "OPTIONS /api/vrp/solve HTTP/1.1" 200 -
+2025-09-28 12:09:56,735 - controllers.vrp_controller - WARNING - Validation errors: ['Customer 1: Invalid time window start time', 'Customer 1: Invalid time window end time', 'Customer 2: Invalid time window start time', 'Customer 2: Invalid time window end time']
+2025-09-28 12:09:56,736 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 12:09:56] "POST /api/vrp/solve HTTP/1.1" 200 -
+2025-09-28 12:10:11,528 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 12:10:11] "GET /swagger/ HTTP/1.1" 200 -
+2025-09-28 12:10:11,850 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 12:10:11] "[36mGET /swaggerui/droid-sans.css HTTP/1.1[0m" 304 -
+2025-09-28 12:10:11,860 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 12:10:11] "[36mGET /swaggerui/swagger-ui-bundle.js HTTP/1.1[0m" 304 -
+2025-09-28 12:10:11,860 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 12:10:11] "[36mGET /swaggerui/swagger-ui.css HTTP/1.1[0m" 304 -
+2025-09-28 12:10:11,860 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 12:10:11] "[36mGET /swaggerui/swagger-ui-standalone-preset.js HTTP/1.1[0m" 304 -
+2025-09-28 12:10:12,219 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 12:10:12] "GET /api/swagger.json HTTP/1.1" 200 -
+2025-09-28 12:10:12,516 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 12:10:12] "[36mGET /swaggerui/favicon-32x32.png HTTP/1.1[0m" 304 -
+2025-09-28 12:10:34,473 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 12:10:34] "OPTIONS /api/vrp/solve HTTP/1.1" 200 -
+2025-09-28 12:10:34,830 - controllers.vrp_controller - WARNING - Validation errors: ['Customer 1: Invalid time window start time', 'Customer 1: Invalid time window end time', 'Customer 2: Invalid time window start time', 'Customer 2: Invalid time window end time']
+2025-09-28 12:10:34,831 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 12:10:34] "POST /api/vrp/solve HTTP/1.1" 200 -
+2025-09-28 12:12:49,172 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 12:12:49] "OPTIONS /api/vrp/solve HTTP/1.1" 200 -
+2025-09-28 12:12:49,473 - services.vrp_service - INFO - Starting VRP solving
+2025-09-28 12:12:49,474 - services.vrp_service - INFO - Creating data model for 2 customers and 3 vehicles
+2025-09-28 12:12:49,474 - services.vrp_service - INFO - Data model created: 3x3 distance matrix
+2025-09-28 12:13:52,848 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 12:13:52] "OPTIONS /api/vrp/solve HTTP/1.1" 200 -
+2025-09-28 12:13:57,951 - services.vrp_service - INFO - Starting VRP solving
+2025-09-28 12:13:57,976 - services.vrp_service - INFO - Creating data model for 1 customers and 3 vehicles
+2025-09-28 12:13:57,995 - services.vrp_service - INFO - Data model created: 2x2 distance matrix
+2025-09-28 12:14:53,964 - werkzeug - INFO -  * Detected change in 'D:\\React-Proje\\vrp-solver\\backend\\services\\vrp_service.py', reloading
+2025-09-28 12:14:54,469 - werkzeug - INFO -  * Restarting with stat
+2025-09-28 12:14:56,169 - __main__ - INFO - Advanced VRP Backend (Modular) starting...
+2025-09-28 12:14:56,219 - werkzeug - WARNING -  * Debugger is active!
+2025-09-28 12:14:56,228 - werkzeug - INFO -  * Debugger PIN: 881-199-026
+2025-09-28 12:15:10,441 - werkzeug - INFO -  * Detected change in 'D:\\React-Proje\\vrp-solver\\backend\\services\\vrp_service.py', reloading
+2025-09-28 12:15:10,492 - werkzeug - INFO -  * Restarting with stat
+2025-09-28 12:15:11,494 - __main__ - INFO - Advanced VRP Backend (Modular) starting...
+2025-09-28 12:15:11,530 - werkzeug - WARNING -  * Debugger is active!
+2025-09-28 12:15:11,535 - werkzeug - INFO -  * Debugger PIN: 881-199-026
+2025-09-28 12:15:14,440 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 12:15:14] "OPTIONS /api/vrp/solve HTTP/1.1" 200 -
+2025-09-28 12:15:14,743 - services.vrp_service - INFO - Starting VRP solving
+2025-09-28 12:15:14,743 - services.vrp_service - INFO - Creating data model for 1 customers and 3 vehicles
+2025-09-28 12:15:14,743 - services.vrp_service - INFO - Data model created: 2x2 distance matrix
+2025-09-28 12:15:14,775 - services.vrp_service - INFO - VRP solving completed in 0.03 seconds
+2025-09-28 12:15:14,802 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 12:15:14] "POST /api/vrp/solve HTTP/1.1" 200 -
+2025-09-28 12:15:14,868 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 12:15:14] "OPTIONS /api/directions HTTP/1.1" 200 -
+2025-09-28 12:15:16,507 - services.maps_service - INFO - Directions API request successful
+2025-09-28 12:15:16,512 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 12:15:16] "POST /api/directions HTTP/1.1" 200 -
+2025-09-28 12:15:48,030 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 12:15:48] "OPTIONS /api/vrp/solve HTTP/1.1" 200 -
+2025-09-28 12:15:48,377 - services.vrp_service - INFO - Starting VRP solving
+2025-09-28 12:15:48,377 - services.vrp_service - INFO - Creating data model for 2 customers and 3 vehicles
+2025-09-28 12:15:48,378 - services.vrp_service - INFO - Data model created: 3x3 distance matrix
+2025-09-28 12:15:48,383 - services.vrp_service - INFO - VRP solving completed in 0.01 seconds
+2025-09-28 12:15:48,406 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 12:15:48] "POST /api/vrp/solve HTTP/1.1" 200 -
+2025-09-28 12:15:48,604 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 12:15:48] "OPTIONS /api/directions HTTP/1.1" 200 -
+2025-09-28 12:15:49,939 - services.maps_service - INFO - Directions API request successful
+2025-09-28 12:15:49,946 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 12:15:49] "POST /api/directions HTTP/1.1" 200 -
+2025-09-28 12:16:03,817 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 12:16:03] "OPTIONS /api/directions HTTP/1.1" 200 -
+2025-09-28 12:16:04,129 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 12:16:04] "OPTIONS /api/directions HTTP/1.1" 200 -
+2025-09-28 12:16:05,473 - services.maps_service - INFO - Directions API request successful
+2025-09-28 12:16:05,476 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 12:16:05] "POST /api/directions HTTP/1.1" 200 -
+2025-09-28 12:16:05,603 - services.maps_service - INFO - Directions API request successful
+2025-09-28 12:16:05,606 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 12:16:05] "POST /api/directions HTTP/1.1" 200 -
+2025-09-28 12:16:13,605 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 12:16:13] "OPTIONS /api/vrp/solve HTTP/1.1" 200 -
+2025-09-28 12:16:13,907 - services.vrp_service - INFO - Starting VRP solving
+2025-09-28 12:16:13,907 - services.vrp_service - INFO - Creating data model for 3 customers and 3 vehicles
+2025-09-28 12:16:13,908 - services.vrp_service - INFO - Data model created: 4x4 distance matrix
+2025-09-28 12:16:13,914 - services.vrp_service - INFO - VRP solving completed in 0.01 seconds
+2025-09-28 12:16:13,944 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 12:16:13] "POST /api/vrp/solve HTTP/1.1" 200 -
+2025-09-28 12:16:14,001 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 12:16:14] "OPTIONS /api/directions HTTP/1.1" 200 -
+2025-09-28 12:16:15,517 - services.maps_service - INFO - Directions API request successful
+2025-09-28 12:16:15,520 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 12:16:15] "POST /api/directions HTTP/1.1" 200 -
+2025-09-28 12:17:44,142 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 12:17:44] "OPTIONS /api/directions HTTP/1.1" 200 -
+2025-09-28 12:17:44,153 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 12:17:44] "OPTIONS /api/directions HTTP/1.1" 200 -
+2025-09-28 12:17:45,542 - services.maps_service - INFO - Directions API request successful
+2025-09-28 12:17:45,546 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 12:17:45] "POST /api/directions HTTP/1.1" 200 -
+2025-09-28 12:17:45,588 - services.maps_service - INFO - Directions API request successful
+2025-09-28 12:17:45,592 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 12:17:45] "POST /api/directions HTTP/1.1" 200 -
+2025-09-28 12:20:25,080 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 12:20:25] "OPTIONS /api/directions HTTP/1.1" 200 -
+2025-09-28 12:20:25,083 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 12:20:25] "OPTIONS /api/directions HTTP/1.1" 200 -
+2025-09-28 12:20:26,450 - services.maps_service - INFO - Directions API request successful
+2025-09-28 12:20:26,453 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 12:20:26] "POST /api/directions HTTP/1.1" 200 -
+2025-09-28 12:20:26,672 - services.maps_service - INFO - Directions API request successful
+2025-09-28 12:20:26,675 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 12:20:26] "POST /api/directions HTTP/1.1" 200 -
+2025-09-28 12:21:14,861 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 12:21:14] "OPTIONS /api/directions HTTP/1.1" 200 -
+2025-09-28 12:21:16,462 - services.maps_service - INFO - Directions API request successful
+2025-09-28 12:21:16,467 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 12:21:16] "POST /api/directions HTTP/1.1" 200 -
+2025-09-28 12:21:16,592 - services.maps_service - INFO - Directions API request successful
+2025-09-28 12:21:16,602 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 12:21:16] "POST /api/directions HTTP/1.1" 200 -
+2025-09-28 12:24:05,511 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 12:24:05] "OPTIONS /api/vrp/solve HTTP/1.1" 200 -
+2025-09-28 12:24:05,809 - services.vrp_service - INFO - Starting VRP solving
+2025-09-28 12:24:05,809 - services.vrp_service - INFO - Creating data model for 1 customers and 3 vehicles
+2025-09-28 12:24:05,809 - services.vrp_service - INFO - Data model created: 2x2 distance matrix
+2025-09-28 12:24:05,813 - services.vrp_service - INFO - VRP solving completed in 0.00 seconds
+2025-09-28 12:24:05,838 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 12:24:05] "POST /api/vrp/solve HTTP/1.1" 200 -
+2025-09-28 12:24:05,908 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 12:24:05] "OPTIONS /api/directions HTTP/1.1" 200 -
+2025-09-28 12:24:07,393 - services.maps_service - INFO - Directions API request successful
+2025-09-28 12:24:07,395 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 12:24:07] "POST /api/directions HTTP/1.1" 200 -
+2025-09-28 12:24:19,759 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 12:24:19] "OPTIONS /api/vrp/solve HTTP/1.1" 200 -
+2025-09-28 12:24:20,121 - services.vrp_service - INFO - Starting VRP solving
+2025-09-28 12:24:20,121 - services.vrp_service - INFO - Creating data model for 1 customers and 3 vehicles
+2025-09-28 12:24:20,121 - services.vrp_service - INFO - Data model created: 2x2 distance matrix
+2025-09-28 12:24:20,126 - services.vrp_service - INFO - VRP solving completed in 0.00 seconds
+2025-09-28 12:24:20,149 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 12:24:20] "POST /api/vrp/solve HTTP/1.1" 200 -
+2025-09-28 12:24:20,327 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 12:24:20] "OPTIONS /api/directions HTTP/1.1" 200 -
+2025-09-28 12:24:21,641 - services.maps_service - INFO - Directions API request successful
+2025-09-28 12:24:21,645 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 12:24:21] "POST /api/directions HTTP/1.1" 200 -
+2025-09-28 12:25:28,920 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 12:25:28] "OPTIONS /api/directions HTTP/1.1" 200 -
+2025-09-28 12:25:29,937 - services.maps_service - INFO - Directions API request successful
+2025-09-28 12:25:29,940 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 12:25:29] "POST /api/directions HTTP/1.1" 200 -
+2025-09-28 12:27:42,103 - werkzeug - INFO -  * Detected change in 'D:\\React-Proje\\vrp-solver\\backend\\services\\vrp_service.py', reloading
+2025-09-28 12:27:42,203 - werkzeug - INFO -  * Restarting with stat
+2025-09-28 12:27:42,998 - __main__ - INFO - Advanced VRP Backend (Modular) starting...
+2025-09-28 12:27:43,045 - werkzeug - WARNING -  * Debugger is active!
+2025-09-28 12:27:43,051 - werkzeug - INFO -  * Debugger PIN: 881-199-026
+2025-09-28 12:27:48,119 - werkzeug - INFO -  * Detected change in 'D:\\React-Proje\\vrp-solver\\backend\\services\\vrp_service.py', reloading
+2025-09-28 12:27:48,276 - werkzeug - INFO -  * Restarting with stat
+2025-09-28 12:27:48,911 - __main__ - INFO - Advanced VRP Backend (Modular) starting...
+2025-09-28 12:27:48,941 - werkzeug - WARNING -  * Debugger is active!
+2025-09-28 12:27:48,946 - werkzeug - INFO -  * Debugger PIN: 881-199-026
+2025-09-28 12:27:54,004 - werkzeug - INFO -  * Detected change in 'D:\\React-Proje\\vrp-solver\\backend\\services\\vrp_service.py', reloading
+2025-09-28 12:27:54,163 - werkzeug - INFO -  * Restarting with stat
+2025-09-28 12:27:54,738 - __main__ - INFO - Advanced VRP Backend (Modular) starting...
+2025-09-28 12:27:54,770 - werkzeug - WARNING -  * Debugger is active!
+2025-09-28 12:27:54,774 - werkzeug - INFO -  * Debugger PIN: 881-199-026
+2025-09-28 12:28:18,998 - werkzeug - INFO -  * Detected change in 'D:\\React-Proje\\vrp-solver\\backend\\services\\vrp_service.py', reloading
+2025-09-28 12:28:19,044 - werkzeug - INFO -  * Restarting with stat
+2025-09-28 12:28:19,641 - __main__ - INFO - Advanced VRP Backend (Modular) starting...
+2025-09-28 12:28:19,670 - werkzeug - WARNING -  * Debugger is active!
+2025-09-28 12:28:19,674 - werkzeug - INFO -  * Debugger PIN: 881-199-026
+2025-09-28 12:28:31,078 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 12:28:31] "OPTIONS /api/directions HTTP/1.1" 200 -
+2025-09-28 12:28:31,079 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 12:28:31] "OPTIONS /api/directions HTTP/1.1" 200 -
+2025-09-28 12:28:32,359 - services.maps_service - INFO - Directions API request successful
+2025-09-28 12:28:32,361 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 12:28:32] "POST /api/directions HTTP/1.1" 200 -
+2025-09-28 12:28:32,413 - services.maps_service - INFO - Directions API request successful
+2025-09-28 12:28:32,415 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 12:28:32] "POST /api/directions HTTP/1.1" 200 -
+2025-09-28 12:30:34,432 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 12:30:34] "OPTIONS /api/directions HTTP/1.1" 200 -
+2025-09-28 12:30:34,434 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 12:30:34] "OPTIONS /api/directions HTTP/1.1" 200 -
+2025-09-28 12:30:35,688 - services.maps_service - INFO - Directions API request successful
+2025-09-28 12:30:35,691 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 12:30:35] "POST /api/directions HTTP/1.1" 200 -
+2025-09-28 12:30:35,742 - services.maps_service - INFO - Directions API request successful
+2025-09-28 12:30:35,749 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 12:30:35] "POST /api/directions HTTP/1.1" 200 -
+2025-09-28 12:30:37,473 - services.maps_service - INFO - Directions API request successful
+2025-09-28 12:30:37,479 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 12:30:37] "POST /api/directions HTTP/1.1" 200 -
+2025-09-28 12:30:37,854 - services.maps_service - INFO - Directions API request successful
+2025-09-28 12:30:37,858 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 12:30:37] "POST /api/directions HTTP/1.1" 200 -
+2025-09-28 12:31:10,025 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 12:31:10] "OPTIONS /api/directions HTTP/1.1" 200 -
+2025-09-28 12:31:10,028 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 12:31:10] "OPTIONS /api/directions HTTP/1.1" 200 -
+2025-09-28 12:31:11,363 - services.maps_service - INFO - Directions API request successful
+2025-09-28 12:31:11,366 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 12:31:11] "POST /api/directions HTTP/1.1" 200 -
+2025-09-28 12:31:11,396 - services.maps_service - INFO - Directions API request successful
+2025-09-28 12:31:11,401 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 12:31:11] "POST /api/directions HTTP/1.1" 200 -
+2025-09-28 12:34:35,204 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 12:34:35] "OPTIONS /api/directions HTTP/1.1" 200 -
+2025-09-28 12:34:35,207 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 12:34:35] "OPTIONS /api/directions HTTP/1.1" 200 -
+2025-09-28 12:34:36,427 - services.maps_service - INFO - Directions API request successful
+2025-09-28 12:34:36,430 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 12:34:36] "POST /api/directions HTTP/1.1" 200 -
+2025-09-28 12:34:36,448 - services.maps_service - INFO - Directions API request successful
+2025-09-28 12:34:36,452 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 12:34:36] "POST /api/directions HTTP/1.1" 200 -
+2025-09-28 12:34:46,569 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 12:34:46] "OPTIONS /api/vrp/solve HTTP/1.1" 200 -
+2025-09-28 12:34:46,948 - services.vrp_service - INFO - Starting VRP solving
+2025-09-28 12:34:46,949 - services.vrp_service - INFO - Creating data model for 2 customers and 3 vehicles
+2025-09-28 12:34:46,949 - services.vrp_service - INFO - Data model created: 3x3 distance matrix
+2025-09-28 12:34:46,980 - services.vrp_service - INFO - VRP solving completed in 0.03 seconds
+2025-09-28 12:34:47,013 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 12:34:47] "POST /api/vrp/solve HTTP/1.1" 200 -
+2025-09-28 12:34:47,132 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 12:34:47] "OPTIONS /api/directions HTTP/1.1" 200 -
+2025-09-28 12:34:48,201 - services.maps_service - INFO - Directions API request successful
+2025-09-28 12:34:48,207 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 12:34:48] "POST /api/directions HTTP/1.1" 200 -
+2025-09-28 12:34:49,034 - services.maps_service - INFO - Directions API request successful
+2025-09-28 12:34:49,037 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 12:34:49] "POST /api/directions HTTP/1.1" 200 -
+2025-09-28 12:34:50,447 - services.maps_service - INFO - Directions API request successful
+2025-09-28 12:34:50,449 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 12:34:50] "POST /api/directions HTTP/1.1" 200 -
+2025-09-28 12:35:02,741 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 12:35:02] "OPTIONS /api/vrp/solve HTTP/1.1" 200 -
+2025-09-28 12:35:03,098 - services.vrp_service - INFO - Starting VRP solving
+2025-09-28 12:35:03,098 - services.vrp_service - INFO - Creating data model for 3 customers and 3 vehicles
+2025-09-28 12:35:03,099 - services.vrp_service - INFO - Data model created: 4x4 distance matrix
+2025-09-28 12:35:03,103 - services.vrp_service - INFO - VRP solving completed in 0.01 seconds
+2025-09-28 12:35:03,128 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 12:35:03] "POST /api/vrp/solve HTTP/1.1" 200 -
+2025-09-28 12:35:03,321 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 12:35:03] "OPTIONS /api/directions HTTP/1.1" 200 -
+2025-09-28 12:35:04,361 - services.maps_service - INFO - Directions API request successful
+2025-09-28 12:35:04,367 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 12:35:04] "POST /api/directions HTTP/1.1" 200 -
+2025-09-28 12:35:05,121 - services.maps_service - INFO - Directions API request successful
+2025-09-28 12:35:05,124 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 12:35:05] "POST /api/directions HTTP/1.1" 200 -
+2025-09-28 12:35:06,242 - services.vrp_service - INFO - Starting VRP solving
+2025-09-28 12:35:06,242 - services.vrp_service - INFO - Creating data model for 3 customers and 3 vehicles
+2025-09-28 12:35:06,242 - services.vrp_service - INFO - Data model created: 4x4 distance matrix
+2025-09-28 12:35:06,244 - services.vrp_service - INFO - VRP solving completed in 0.00 seconds
+2025-09-28 12:35:06,260 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 12:35:06] "POST /api/vrp/solve HTTP/1.1" 200 -
+2025-09-28 12:35:06,265 - services.maps_service - INFO - Directions API request successful
+2025-09-28 12:35:06,270 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 12:35:06] "POST /api/directions HTTP/1.1" 200 -
+2025-09-28 12:35:07,509 - services.maps_service - INFO - Directions API request successful
+2025-09-28 12:35:07,514 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 12:35:07] "POST /api/directions HTTP/1.1" 200 -
+2025-09-28 12:35:08,326 - services.maps_service - INFO - Directions API request successful
+2025-09-28 12:35:08,332 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 12:35:08] "POST /api/directions HTTP/1.1" 200 -
+2025-09-28 12:35:08,652 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 12:35:08] "OPTIONS /api/directions HTTP/1.1" 200 -
+2025-09-28 12:35:09,870 - services.maps_service - INFO - Directions API request successful
+2025-09-28 12:35:09,878 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 12:35:09] "POST /api/directions HTTP/1.1" 200 -
+2025-09-28 12:35:59,547 - werkzeug - INFO -  * Detected change in 'D:\\React-Proje\\vrp-solver\\backend\\services\\vrp_service.py', reloading
+2025-09-28 12:35:59,692 - werkzeug - INFO -  * Restarting with stat
+2025-09-28 12:36:00,574 - __main__ - INFO - Advanced VRP Backend (Modular) starting...
+2025-09-28 12:36:00,614 - werkzeug - WARNING -  * Debugger is active!
+2025-09-28 12:36:00,618 - werkzeug - INFO -  * Debugger PIN: 881-199-026
+2025-09-28 12:36:04,666 - werkzeug - INFO -  * Detected change in 'D:\\React-Proje\\vrp-solver\\backend\\services\\vrp_service.py', reloading
+2025-09-28 12:36:04,712 - werkzeug - INFO -  * Restarting with stat
+2025-09-28 12:36:05,308 - __main__ - INFO - Advanced VRP Backend (Modular) starting...
+2025-09-28 12:36:05,338 - werkzeug - WARNING -  * Debugger is active!
+2025-09-28 12:36:05,342 - werkzeug - INFO -  * Debugger PIN: 881-199-026
+2025-09-28 12:36:11,402 - werkzeug - INFO -  * Detected change in 'D:\\React-Proje\\vrp-solver\\backend\\services\\vrp_service.py', reloading
+2025-09-28 12:36:11,539 - werkzeug - INFO -  * Restarting with stat
+2025-09-28 12:36:12,164 - __main__ - INFO - Advanced VRP Backend (Modular) starting...
+2025-09-28 12:36:12,185 - werkzeug - WARNING -  * Debugger is active!
+2025-09-28 12:36:12,189 - werkzeug - INFO -  * Debugger PIN: 881-199-026
+2025-09-28 12:36:16,234 - werkzeug - INFO -  * Detected change in 'D:\\React-Proje\\vrp-solver\\backend\\services\\vrp_service.py', reloading
+2025-09-28 12:36:16,341 - werkzeug - INFO -  * Restarting with stat
+2025-09-28 12:36:17,099 - __main__ - INFO - Advanced VRP Backend (Modular) starting...
+2025-09-28 12:36:17,118 - werkzeug - WARNING -  * Debugger is active!
+2025-09-28 12:36:17,123 - werkzeug - INFO -  * Debugger PIN: 881-199-026
+2025-09-28 12:36:29,187 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 12:36:29] "OPTIONS /api/vrp/solve HTTP/1.1" 200 -
+2025-09-28 12:36:29,521 - services.vrp_service - INFO - Starting VRP solving
+2025-09-28 12:36:29,522 - services.vrp_service - INFO - Creating data model for 3 customers and 3 vehicles
+2025-09-28 12:36:29,522 - services.vrp_service - INFO - Data model created: 4x4 distance matrix
+2025-09-28 12:37:13,422 - __main__ - INFO - Advanced VRP Backend (Modular) starting...
+2025-09-28 12:37:14,345 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.110:5000
+2025-09-28 12:37:14,345 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-09-28 12:37:14,348 - werkzeug - INFO -  * Restarting with stat
+2025-09-28 12:37:14,989 - __main__ - INFO - Advanced VRP Backend (Modular) starting...
+2025-09-28 12:37:15,014 - werkzeug - WARNING -  * Debugger is active!
+2025-09-28 12:37:15,018 - werkzeug - INFO -  * Debugger PIN: 881-199-026
+2025-09-28 12:37:26,617 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 12:37:26] "OPTIONS /api/vrp/solve HTTP/1.1" 200 -
+2025-09-28 12:37:26,923 - services.vrp_service - INFO - Starting VRP solving
+2025-09-28 12:37:26,923 - services.vrp_service - INFO - Creating data model for 3 customers and 3 vehicles
+2025-09-28 12:37:26,924 - services.vrp_service - INFO - Data model created: 4x4 distance matrix
+2025-09-28 12:39:13,889 - __main__ - INFO - Advanced VRP Backend (Modular) starting...
+2025-09-28 12:39:14,784 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.110:5000
+2025-09-28 12:39:14,785 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-09-28 12:39:14,786 - werkzeug - INFO -  * Restarting with stat
+2025-09-28 12:39:15,332 - __main__ - INFO - Advanced VRP Backend (Modular) starting...
+2025-09-28 12:39:15,350 - werkzeug - WARNING -  * Debugger is active!
+2025-09-28 12:39:15,353 - werkzeug - INFO -  * Debugger PIN: 881-199-026
+2025-09-28 12:39:19,533 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 12:39:19] "OPTIONS /api/vrp/solve HTTP/1.1" 200 -
+2025-09-28 12:39:19,850 - services.vrp_service - INFO - Starting VRP solving
+2025-09-28 12:39:19,850 - services.vrp_service - INFO - Creating data model for 3 customers and 3 vehicles
+2025-09-28 12:39:19,850 - services.vrp_service - INFO - Data model created: 4x4 distance matrix
+2025-09-28 12:40:18,659 - __main__ - INFO - Advanced VRP Backend (Modular) starting...
+2025-09-28 12:40:19,546 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.110:5000
+2025-09-28 12:40:19,546 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-09-28 12:40:19,548 - werkzeug - INFO -  * Restarting with stat
+2025-09-28 12:40:20,142 - __main__ - INFO - Advanced VRP Backend (Modular) starting...
+2025-09-28 12:40:20,174 - werkzeug - WARNING -  * Debugger is active!
+2025-09-28 12:40:20,180 - werkzeug - INFO -  * Debugger PIN: 881-199-026
+2025-09-28 12:40:25,238 - werkzeug - INFO -  * Detected change in 'D:\\React-Proje\\vrp-solver\\backend\\services\\vrp_service.py', reloading
+2025-09-28 12:40:25,338 - werkzeug - INFO -  * Restarting with stat
+2025-09-28 12:40:25,986 - __main__ - INFO - Advanced VRP Backend (Modular) starting...
+2025-09-28 12:40:26,009 - werkzeug - WARNING -  * Debugger is active!
+2025-09-28 12:40:26,013 - werkzeug - INFO -  * Debugger PIN: 881-199-026
+2025-09-28 12:40:26,038 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 12:40:26] "GET /swagger/ HTTP/1.1" 200 -
+2025-09-28 12:40:26,123 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 12:40:26] "[36mGET /swaggerui/droid-sans.css HTTP/1.1[0m" 304 -
+2025-09-28 12:40:26,376 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 12:40:26] "[36mGET /swaggerui/swagger-ui.css HTTP/1.1[0m" 304 -
+2025-09-28 12:40:26,376 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 12:40:26] "[36mGET /swaggerui/swagger-ui-bundle.js HTTP/1.1[0m" 304 -
+2025-09-28 12:40:26,377 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 12:40:26] "[36mGET /swaggerui/swagger-ui-standalone-preset.js HTTP/1.1[0m" 304 -
+2025-09-28 12:40:26,748 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 12:40:26] "GET /api/swagger.json HTTP/1.1" 200 -
+2025-09-28 12:40:26,762 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 12:40:26] "[36mGET /swaggerui/favicon-32x32.png HTTP/1.1[0m" 304 -
+2025-09-28 12:40:36,974 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 12:40:36] "OPTIONS /api/vrp/solve HTTP/1.1" 200 -
+2025-09-28 12:40:37,283 - services.vrp_service - INFO - Starting VRP solving
+2025-09-28 12:40:37,283 - services.vrp_service - INFO - Creating data model for 3 customers and 3 vehicles
+2025-09-28 12:40:37,283 - services.vrp_service - INFO - Data model created: 4x4 distance matrix
+2025-09-28 12:41:44,022 - __main__ - INFO - Advanced VRP Backend (Modular) starting...
+2025-09-28 12:41:44,929 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.110:5000
+2025-09-28 12:41:44,929 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-09-28 12:41:44,931 - werkzeug - INFO -  * Restarting with stat
+2025-09-28 12:41:45,461 - __main__ - INFO - Advanced VRP Backend (Modular) starting...
+2025-09-28 12:41:45,483 - werkzeug - WARNING -  * Debugger is active!
+2025-09-28 12:41:45,487 - werkzeug - INFO -  * Debugger PIN: 881-199-026
+2025-09-28 12:41:48,621 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 12:41:48] "OPTIONS /api/vrp/solve HTTP/1.1" 200 -
+2025-09-28 12:41:48,923 - services.vrp_service - INFO - Starting VRP solving
+2025-09-28 12:41:48,923 - services.vrp_service - INFO - Creating data model for 3 customers and 3 vehicles
+2025-09-28 12:41:48,924 - services.vrp_service - INFO - Data model created: 4x4 distance matrix
+2025-09-28 12:42:14,611 - __main__ - INFO - Advanced VRP Backend (Modular) starting...
+2025-09-28 12:42:15,513 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.110:5000
+2025-09-28 12:42:15,514 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-09-28 12:42:15,516 - werkzeug - INFO -  * Restarting with stat
+2025-09-28 12:42:16,030 - __main__ - INFO - Advanced VRP Backend (Modular) starting...
+2025-09-28 12:42:16,053 - werkzeug - WARNING -  * Debugger is active!
+2025-09-28 12:42:16,057 - werkzeug - INFO -  * Debugger PIN: 881-199-026
+2025-09-28 12:42:18,484 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 12:42:18] "OPTIONS /api/vrp/solve HTTP/1.1" 200 -
+2025-09-28 12:42:18,795 - services.vrp_service - INFO - Starting VRP solving
+2025-09-28 12:42:18,795 - services.vrp_service - INFO - Creating data model for 3 customers and 3 vehicles
+2025-09-28 12:42:18,795 - services.vrp_service - INFO - Data model created: 4x4 distance matrix
+2025-09-28 12:42:53,659 - __main__ - INFO - Advanced VRP Backend (Modular) starting...
+2025-09-28 12:42:54,583 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.110:5000
+2025-09-28 12:42:54,584 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-09-28 12:42:54,587 - werkzeug - INFO -  * Restarting with stat
+2025-09-28 12:42:55,619 - __main__ - INFO - Advanced VRP Backend (Modular) starting...
+2025-09-28 12:42:55,660 - werkzeug - WARNING -  * Debugger is active!
+2025-09-28 12:42:55,666 - werkzeug - INFO -  * Debugger PIN: 881-199-026
+2025-09-28 12:43:00,721 - werkzeug - INFO -  * Detected change in 'D:\\React-Proje\\vrp-solver\\backend\\services\\vrp_service.py', reloading
+2025-09-28 12:43:00,861 - werkzeug - INFO -  * Restarting with stat
+2025-09-28 12:43:01,689 - __main__ - INFO - Advanced VRP Backend (Modular) starting...
+2025-09-28 12:43:01,708 - werkzeug - WARNING -  * Debugger is active!
+2025-09-28 12:43:01,712 - werkzeug - INFO -  * Debugger PIN: 881-199-026
+2025-09-28 12:43:12,798 - werkzeug - INFO -  * Detected change in 'D:\\React-Proje\\vrp-solver\\backend\\services\\vrp_service.py', reloading
+2025-09-28 12:43:12,989 - werkzeug - INFO -  * Restarting with stat
+2025-09-28 12:43:14,666 - __main__ - INFO - Advanced VRP Backend (Modular) starting...
+2025-09-28 12:43:14,725 - werkzeug - WARNING -  * Debugger is active!
+2025-09-28 12:43:14,734 - werkzeug - INFO -  * Debugger PIN: 881-199-026
+2025-09-28 12:43:14,762 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 12:43:14] "OPTIONS /api/vrp/solve HTTP/1.1" 200 -
+2025-09-28 12:43:14,823 - services.vrp_service - INFO - Starting VRP solving
+2025-09-28 12:43:14,823 - services.vrp_service - INFO - Creating data model for 3 customers and 3 vehicles
+2025-09-28 12:43:14,824 - services.vrp_service - INFO - Data model created: 4x4 distance matrix
+2025-09-28 12:43:14,853 - services.vrp_service - INFO - VRP solving completed in 0.03 seconds
+2025-09-28 12:43:14,878 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 12:43:14] "POST /api/vrp/solve HTTP/1.1" 200 -
+2025-09-28 12:43:15,263 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 12:43:15] "OPTIONS /api/directions HTTP/1.1" 200 -
+2025-09-28 12:43:16,458 - services.maps_service - INFO - Directions API request successful
+2025-09-28 12:43:16,461 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 12:43:16] "POST /api/directions HTTP/1.1" 200 -
+2025-09-28 12:43:17,114 - services.maps_service - INFO - Directions API request successful
+2025-09-28 12:43:17,117 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 12:43:17] "POST /api/directions HTTP/1.1" 200 -
+2025-09-28 12:43:17,989 - services.maps_service - INFO - Directions API request successful
+2025-09-28 12:43:17,991 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 12:43:17] "POST /api/directions HTTP/1.1" 200 -
+2025-09-28 12:43:43,520 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 12:43:43] "OPTIONS /api/vrp/solve HTTP/1.1" 200 -
+2025-09-28 12:43:43,881 - services.vrp_service - INFO - Starting VRP solving
+2025-09-28 12:43:43,881 - services.vrp_service - INFO - Creating data model for 3 customers and 3 vehicles
+2025-09-28 12:43:43,881 - services.vrp_service - INFO - Data model created: 4x4 distance matrix
+2025-09-28 12:43:43,885 - services.vrp_service - INFO - VRP solving completed in 0.00 seconds
+2025-09-28 12:43:43,912 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 12:43:43] "POST /api/vrp/solve HTTP/1.1" 200 -
+2025-09-28 12:43:44,095 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 12:43:44] "OPTIONS /api/directions HTTP/1.1" 200 -
+2025-09-28 12:43:45,331 - services.maps_service - INFO - Directions API request successful
+2025-09-28 12:43:45,336 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 12:43:45] "POST /api/directions HTTP/1.1" 200 -
+2025-09-28 12:43:46,273 - services.maps_service - INFO - Directions API request successful
+2025-09-28 12:43:46,279 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 12:43:46] "POST /api/directions HTTP/1.1" 200 -
+2025-09-28 12:43:47,515 - services.maps_service - INFO - Directions API request successful
+2025-09-28 12:43:47,519 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 12:43:47] "POST /api/directions HTTP/1.1" 200 -
+2025-09-28 12:43:47,874 - services.vrp_service - INFO - Starting VRP solving
+2025-09-28 12:43:47,874 - services.vrp_service - INFO - Creating data model for 3 customers and 3 vehicles
+2025-09-28 12:43:47,874 - services.vrp_service - INFO - Data model created: 4x4 distance matrix
+2025-09-28 12:43:47,877 - services.vrp_service - INFO - VRP solving completed in 0.00 seconds
+2025-09-28 12:43:47,895 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 12:43:47] "POST /api/vrp/solve HTTP/1.1" 200 -
+2025-09-28 12:43:49,315 - services.maps_service - INFO - Directions API request successful
+2025-09-28 12:43:49,321 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 12:43:49] "POST /api/directions HTTP/1.1" 200 -
+2025-09-28 12:43:49,330 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 12:43:49] "OPTIONS /api/directions HTTP/1.1" 200 -
+2025-09-28 12:43:50,483 - services.maps_service - INFO - Directions API request successful
+2025-09-28 12:43:50,485 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 12:43:50] "POST /api/directions HTTP/1.1" 200 -
+2025-09-28 12:43:51,035 - services.maps_service - INFO - Directions API request successful
+2025-09-28 12:43:51,039 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 12:43:51] "POST /api/directions HTTP/1.1" 200 -
+2025-09-28 12:44:24,279 - werkzeug - INFO -  * Detected change in 'D:\\React-Proje\\vrp-solver\\backend\\models\\__init__.py', reloading
+2025-09-28 12:44:24,383 - werkzeug - INFO -  * Restarting with stat
+2025-09-28 12:44:25,201 - __main__ - INFO - Advanced VRP Backend (Modular) starting...
+2025-09-28 12:44:25,229 - werkzeug - WARNING -  * Debugger is active!
+2025-09-28 12:44:25,233 - werkzeug - INFO -  * Debugger PIN: 881-199-026
+2025-09-28 12:44:26,263 - werkzeug - INFO -  * Detected change in 'D:\\React-Proje\\vrp-solver\\backend\\controllers\\maps_controller.py', reloading
+2025-09-28 12:44:26,362 - werkzeug - INFO -  * Restarting with stat
+2025-09-28 12:44:27,295 - __main__ - INFO - Advanced VRP Backend (Modular) starting...
+2025-09-28 12:44:27,327 - werkzeug - WARNING -  * Debugger is active!
+2025-09-28 12:44:27,333 - werkzeug - INFO -  * Debugger PIN: 881-199-026
+2025-09-28 12:45:14,814 - werkzeug - INFO -  * Detected change in 'D:\\React-Proje\\vrp-solver\\backend\\services\\vrp_service.py', reloading
+2025-09-28 12:45:14,959 - werkzeug - INFO -  * Restarting with stat
+2025-09-28 12:45:15,732 - __main__ - INFO - Advanced VRP Backend (Modular) starting...
+2025-09-28 12:45:15,752 - werkzeug - WARNING -  * Debugger is active!
+2025-09-28 12:45:15,755 - werkzeug - INFO -  * Debugger PIN: 881-199-026
+2025-09-28 12:45:17,786 - werkzeug - INFO -  * Detected change in 'D:\\React-Proje\\vrp-solver\\backend\\services\\vrp_service.py', reloading
+2025-09-28 12:45:17,948 - werkzeug - INFO -  * Restarting with stat
+2025-09-28 12:45:19,482 - __main__ - INFO - Advanced VRP Backend (Modular) starting...
+2025-09-28 12:45:19,524 - werkzeug - WARNING -  * Debugger is active!
+2025-09-28 12:45:19,530 - werkzeug - INFO -  * Debugger PIN: 881-199-026
+2025-09-28 12:45:20,562 - werkzeug - INFO -  * Detected change in 'D:\\React-Proje\\vrp-solver\\backend\\services\\vrp_service.py', reloading
+2025-09-28 12:45:20,702 - werkzeug - INFO -  * Restarting with stat
+2025-09-28 12:45:21,563 - __main__ - INFO - Advanced VRP Backend (Modular) starting...
+2025-09-28 12:45:21,585 - werkzeug - WARNING -  * Debugger is active!
+2025-09-28 12:45:21,590 - werkzeug - INFO -  * Debugger PIN: 881-199-026
+2025-09-28 12:45:32,992 - __main__ - INFO - Advanced VRP Backend (Modular) starting...
+2025-09-28 12:45:33,925 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.110:5000
+2025-09-28 12:45:33,926 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-09-28 12:45:33,928 - werkzeug - INFO -  * Restarting with stat
+2025-09-28 12:45:34,588 - __main__ - INFO - Advanced VRP Backend (Modular) starting...
+2025-09-28 12:45:34,612 - werkzeug - WARNING -  * Debugger is active!
+2025-09-28 12:45:34,616 - werkzeug - INFO -  * Debugger PIN: 881-199-026
+2025-09-28 12:45:38,970 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 12:45:38] "OPTIONS /api/vrp/solve HTTP/1.1" 200 -
+2025-09-28 12:45:39,335 - services.vrp_service - INFO - Starting VRP solving
+2025-09-28 12:45:39,335 - services.vrp_service - INFO - Creating data model for 3 customers and 3 vehicles
+2025-09-28 12:45:39,336 - services.vrp_service - INFO - Data model created: 4x4 distance matrix
+2025-09-28 12:46:25,210 - __main__ - INFO - Advanced VRP Backend (Modular) starting...
+2025-09-28 12:46:26,111 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.110:5000
+2025-09-28 12:46:26,111 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-09-28 12:46:26,113 - werkzeug - INFO -  * Restarting with stat
+2025-09-28 12:46:26,678 - __main__ - INFO - Advanced VRP Backend (Modular) starting...
+2025-09-28 12:46:26,698 - werkzeug - WARNING -  * Debugger is active!
+2025-09-28 12:46:26,701 - werkzeug - INFO -  * Debugger PIN: 881-199-026
+2025-09-28 12:46:29,316 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 12:46:29] "OPTIONS /api/vrp/solve HTTP/1.1" 200 -
+2025-09-28 12:46:29,628 - services.vrp_service - INFO - Starting VRP solving
+2025-09-28 12:46:29,628 - services.vrp_service - INFO - Creating data model for 3 customers and 3 vehicles
+2025-09-28 12:46:29,629 - services.vrp_service - INFO - Data model created: 4x4 distance matrix
+2025-09-28 12:48:06,456 - __main__ - INFO - Advanced VRP Backend (Modular) starting...
+2025-09-28 12:48:07,341 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.110:5000
+2025-09-28 12:48:07,342 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-09-28 12:48:07,344 - werkzeug - INFO -  * Restarting with stat
+2025-09-28 12:48:07,934 - __main__ - INFO - Advanced VRP Backend (Modular) starting...
+2025-09-28 12:48:07,955 - werkzeug - WARNING -  * Debugger is active!
+2025-09-28 12:48:07,959 - werkzeug - INFO -  * Debugger PIN: 881-199-026
+2025-09-28 12:48:11,654 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 12:48:11] "GET /swagger/ HTTP/1.1" 200 -
+2025-09-28 12:48:11,954 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 12:48:11] "[36mGET /swaggerui/droid-sans.css HTTP/1.1[0m" 304 -
+2025-09-28 12:48:11,979 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 12:48:11] "[36mGET /swaggerui/swagger-ui.css HTTP/1.1[0m" 304 -
+2025-09-28 12:48:11,980 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 12:48:11] "[36mGET /swaggerui/swagger-ui-standalone-preset.js HTTP/1.1[0m" 304 -
+2025-09-28 12:48:11,980 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 12:48:11] "[36mGET /swaggerui/swagger-ui-bundle.js HTTP/1.1[0m" 304 -
+2025-09-28 12:48:12,048 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 12:48:12] "GET /api/swagger.json HTTP/1.1" 200 -
+2025-09-28 12:48:12,359 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 12:48:12] "[36mGET /swaggerui/favicon-32x32.png HTTP/1.1[0m" 304 -
+2025-09-28 12:48:15,374 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 12:48:15] "OPTIONS /api/vrp/solve HTTP/1.1" 200 -
+2025-09-28 12:48:15,767 - services.vrp_service - INFO - Starting VRP solving
+2025-09-28 12:48:15,768 - services.vrp_service - INFO - Creating data model for 3 customers and 3 vehicles
+2025-09-28 12:48:15,769 - services.vrp_service - INFO - Data model created: 4x4 distance matrix
+2025-09-28 12:48:43,402 - __main__ - INFO - Advanced VRP Backend (Modular) starting...
+2025-09-28 12:48:44,300 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.110:5000
+2025-09-28 12:48:44,300 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-09-28 12:48:44,302 - werkzeug - INFO -  * Restarting with stat
+2025-09-28 12:48:44,910 - __main__ - INFO - Advanced VRP Backend (Modular) starting...
+2025-09-28 12:48:44,931 - werkzeug - WARNING -  * Debugger is active!
+2025-09-28 12:48:44,935 - werkzeug - INFO -  * Debugger PIN: 881-199-026
+2025-09-28 12:48:46,895 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 12:48:46] "OPTIONS /api/vrp/solve HTTP/1.1" 200 -
+2025-09-28 12:48:47,315 - services.vrp_service - INFO - Starting VRP solving
+2025-09-28 12:48:47,315 - services.vrp_service - INFO - Creating data model for 3 customers and 3 vehicles
+2025-09-28 12:48:47,315 - services.vrp_service - INFO - Data model created: 4x4 distance matrix
+2025-09-28 12:48:47,339 - services.vrp_service - INFO - VRP solving completed in 0.02 seconds
+2025-09-28 12:48:47,339 - services.vrp_service - WARNING - No solution found
+2025-09-28 12:48:47,348 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 12:48:47] "POST /api/vrp/solve HTTP/1.1" 200 -
+2025-09-28 12:50:31,388 - __main__ - INFO - Advanced VRP Backend (Modular) starting...
+2025-09-28 12:50:32,289 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.110:5000
+2025-09-28 12:50:32,290 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-09-28 12:50:32,291 - werkzeug - INFO -  * Restarting with stat
+2025-09-28 12:50:32,915 - __main__ - INFO - Advanced VRP Backend (Modular) starting...
+2025-09-28 12:50:32,936 - werkzeug - WARNING -  * Debugger is active!
+2025-09-28 12:50:32,940 - werkzeug - INFO -  * Debugger PIN: 881-199-026
+2025-09-28 12:50:36,632 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 12:50:36] "OPTIONS /api/vrp/solve HTTP/1.1" 200 -
+2025-09-28 12:50:37,038 - services.vrp_service - INFO - Starting VRP solving
+2025-09-28 12:50:37,039 - services.vrp_service - INFO - Creating data model for 3 customers and 3 vehicles
+2025-09-28 12:50:37,039 - services.vrp_service - INFO - Data model created: 4x4 distance matrix
+2025-09-28 12:50:37,087 - services.vrp_service - INFO - VRP solving completed in 0.05 seconds
+2025-09-28 12:50:37,088 - services.vrp_service - WARNING - No solution found
+2025-09-28 12:50:37,103 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 12:50:37] "POST /api/vrp/solve HTTP/1.1" 200 -
+2025-09-28 12:50:53,084 - werkzeug - INFO -  * Detected change in 'D:\\React-Proje\\vrp-solver\\backend\\controllers\\vrp_controller.py', reloading
+2025-09-28 12:50:53,242 - werkzeug - INFO -  * Restarting with stat
+2025-09-28 12:50:54,065 - __main__ - INFO - Advanced VRP Backend (Modular) starting...
+2025-09-28 12:50:54,088 - werkzeug - WARNING -  * Debugger is active!
+2025-09-28 12:50:54,093 - werkzeug - INFO -  * Debugger PIN: 881-199-026
+2025-09-28 12:50:57,135 - werkzeug - INFO -  * Detected change in 'D:\\React-Proje\\vrp-solver\\backend\\controllers\\vrp_controller.py', reloading
+2025-09-28 12:50:57,254 - werkzeug - INFO -  * Restarting with stat
+2025-09-28 12:50:58,070 - __main__ - INFO - Advanced VRP Backend (Modular) starting...
+2025-09-28 12:50:58,089 - werkzeug - WARNING -  * Debugger is active!
+2025-09-28 12:50:58,095 - werkzeug - INFO -  * Debugger PIN: 881-199-026
+2025-09-28 12:51:02,134 - werkzeug - INFO -  * Detected change in 'D:\\React-Proje\\vrp-solver\\backend\\controllers\\vrp_controller.py', reloading
+2025-09-28 12:51:02,262 - werkzeug - INFO -  * Restarting with stat
+2025-09-28 12:51:02,971 - __main__ - INFO - Advanced VRP Backend (Modular) starting...
+2025-09-28 12:51:02,988 - werkzeug - WARNING -  * Debugger is active!
+2025-09-28 12:51:02,992 - werkzeug - INFO -  * Debugger PIN: 881-199-026
+2025-09-28 12:51:05,021 - werkzeug - INFO -  * Detected change in 'D:\\React-Proje\\vrp-solver\\backend\\controllers\\vrp_controller.py', reloading
+2025-09-28 12:51:05,110 - werkzeug - INFO -  * Restarting with stat
+2025-09-28 12:51:05,814 - __main__ - INFO - Advanced VRP Backend (Modular) starting...
+2025-09-28 12:51:05,842 - werkzeug - WARNING -  * Debugger is active!
+2025-09-28 12:51:05,846 - werkzeug - INFO -  * Debugger PIN: 881-199-026
+2025-09-28 12:51:12,906 - werkzeug - INFO -  * Detected change in 'D:\\React-Proje\\vrp-solver\\backend\\services\\vrp_service.py', reloading
+2025-09-28 12:51:13,026 - werkzeug - INFO -  * Restarting with stat
+2025-09-28 12:51:13,659 - __main__ - INFO - Advanced VRP Backend (Modular) starting...
+2025-09-28 12:51:13,688 - werkzeug - WARNING -  * Debugger is active!
+2025-09-28 12:51:13,693 - werkzeug - INFO -  * Debugger PIN: 881-199-026
+2025-09-28 12:51:21,759 - werkzeug - INFO -  * Detected change in 'D:\\React-Proje\\vrp-solver\\backend\\services\\vrp_service.py', reloading
+2025-09-28 12:51:21,823 - werkzeug - INFO -  * Restarting with stat
+2025-09-28 12:51:22,922 - __main__ - INFO - Advanced VRP Backend (Modular) starting...
+2025-09-28 12:51:22,987 - werkzeug - WARNING -  * Debugger is active!
+2025-09-28 12:51:22,997 - werkzeug - INFO -  * Debugger PIN: 881-199-026
+2025-09-28 12:51:24,624 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 12:51:24] "OPTIONS /api/vrp/solve HTTP/1.1" 200 -
+2025-09-28 12:51:24,889 - controllers.vrp_controller - INFO - VRP cozumu baslatiliyor...
+2025-09-28 12:51:24,890 - controllers.vrp_controller - INFO - Depot: Coordinate(lat=41.009309344707916, lng=28.957466107871635)
+2025-09-28 12:51:24,890 - controllers.vrp_controller - INFO - Musteriler: 3
+2025-09-28 12:51:24,891 - controllers.vrp_controller - INFO - Araclar: 3
+2025-09-28 12:51:24,892 - controllers.vrp_controller - INFO - Max solving time: 30s
+2025-09-28 12:51:24,892 - controllers.vrp_controller - INFO - Time windows: False
+2025-09-28 12:51:24,893 - controllers.vrp_controller - INFO - Objective: balanced
+2025-09-28 12:51:24,893 - controllers.vrp_controller - INFO - Algorithm: ortools
+2025-09-28 12:51:24,894 - services.vrp_service - INFO - Starting VRP solving
+2025-09-28 12:51:24,894 - services.vrp_service - INFO - Creating data model for 3 customers and 3 vehicles
+2025-09-28 12:51:24,895 - services.vrp_service - INFO - Data model created: 4x4 distance matrix
+2025-09-28 12:51:24,927 - services.vrp_service - WARNING - No solution found for 3 vehicles, 3 customers
+2025-09-28 12:51:24,928 - services.vrp_service - WARNING - Total demand: 150, Vehicle capacities: [1000, 2000, 1000]
+2025-09-28 12:51:24,930 - services.vrp_service - INFO - VRP solving completed in 0.04 seconds
+2025-09-28 12:51:24,930 - services.vrp_service - WARNING - No solution found
+2025-09-28 12:51:24,931 - controllers.vrp_controller - WARNING - VRP cozumu bulunamadi
+2025-09-28 12:51:24,933 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 12:51:24] "POST /api/vrp/solve HTTP/1.1" 200 -
+2025-09-28 12:51:50,206 - werkzeug - INFO -  * Detected change in 'D:\\React-Proje\\vrp-solver\\backend\\services\\vrp_service.py', reloading
+2025-09-28 12:51:50,295 - werkzeug - INFO -  * Restarting with stat
+2025-09-28 12:51:51,025 - __main__ - INFO - Advanced VRP Backend (Modular) starting...
+2025-09-28 12:51:51,112 - werkzeug - WARNING -  * Debugger is active!
+2025-09-28 12:51:51,128 - werkzeug - INFO -  * Debugger PIN: 881-199-026
+2025-09-28 12:51:53,178 - werkzeug - INFO -  * Detected change in 'D:\\React-Proje\\vrp-solver\\backend\\services\\vrp_service.py', reloading
+2025-09-28 12:51:53,317 - werkzeug - INFO -  * Restarting with stat
+2025-09-28 12:51:54,229 - __main__ - INFO - Advanced VRP Backend (Modular) starting...
+2025-09-28 12:51:54,276 - werkzeug - WARNING -  * Debugger is active!
+2025-09-28 12:51:54,282 - werkzeug - INFO -  * Debugger PIN: 881-199-026
+2025-09-28 12:51:54,307 - werkzeug - INFO -  * Detected change in 'D:\\React-Proje\\vrp-solver\\backend\\services\\vrp_service.py', reloading
+2025-09-28 12:51:54,445 - werkzeug - INFO -  * Restarting with stat
+2025-09-28 12:51:55,323 - __main__ - INFO - Advanced VRP Backend (Modular) starting...
+2025-09-28 12:51:55,348 - werkzeug - WARNING -  * Debugger is active!
+2025-09-28 12:51:55,352 - werkzeug - INFO -  * Debugger PIN: 881-199-026
+2025-09-28 12:51:56,377 - werkzeug - INFO -  * Detected change in 'D:\\React-Proje\\vrp-solver\\backend\\services\\vrp_service.py', reloading
+2025-09-28 12:51:56,571 - werkzeug - INFO -  * Restarting with stat
+2025-09-28 12:51:57,722 - __main__ - INFO - Advanced VRP Backend (Modular) starting...
+2025-09-28 12:51:57,753 - werkzeug - WARNING -  * Debugger is active!
+2025-09-28 12:51:57,757 - werkzeug - INFO -  * Debugger PIN: 881-199-026
+2025-09-28 12:52:03,815 - werkzeug - INFO -  * Detected change in 'D:\\React-Proje\\vrp-solver\\backend\\services\\vrp_service.py', reloading
+2025-09-28 12:52:03,939 - werkzeug - INFO -  * Restarting with stat
+2025-09-28 12:52:04,566 - __main__ - INFO - Advanced VRP Backend (Modular) starting...
+2025-09-28 12:52:04,583 - werkzeug - WARNING -  * Debugger is active!
+2025-09-28 12:52:04,587 - werkzeug - INFO -  * Debugger PIN: 881-199-026
+2025-09-28 12:52:06,508 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 12:52:06] "OPTIONS /api/vrp/solve HTTP/1.1" 200 -
+2025-09-28 12:52:06,761 - controllers.vrp_controller - INFO - VRP cozumu baslatiliyor...
+2025-09-28 12:52:06,761 - controllers.vrp_controller - INFO - Depot: Coordinate(lat=41.009309344707916, lng=28.957466107871635)
+2025-09-28 12:52:06,762 - controllers.vrp_controller - INFO - Musteriler: 3
+2025-09-28 12:52:06,762 - controllers.vrp_controller - INFO - Araclar: 3
+2025-09-28 12:52:06,762 - controllers.vrp_controller - INFO - Max solving time: 30s
+2025-09-28 12:52:06,762 - controllers.vrp_controller - INFO - Time windows: False
+2025-09-28 12:52:06,763 - controllers.vrp_controller - INFO - Objective: balanced
+2025-09-28 12:52:06,763 - controllers.vrp_controller - INFO - Algorithm: ortools
+2025-09-28 12:52:06,763 - services.vrp_service - INFO - Starting VRP solving
+2025-09-28 12:52:06,764 - services.vrp_service - INFO - Creating data model for 3 customers and 3 vehicles
+2025-09-28 12:52:06,764 - services.vrp_service - INFO - Data model created: 4x4 distance matrix
+2025-09-28 12:52:06,792 - services.vrp_service - INFO - Solution found with 3 vehicles
+2025-09-28 12:52:06,793 - services.vrp_service - INFO - VRP solving completed in 0.03 seconds
+2025-09-28 12:52:06,796 - controllers.vrp_controller - INFO - VRP cozumu tamamlandi: 1 arac, 3 musteri
+2025-09-28 12:52:06,797 - controllers.vrp_controller - INFO - Toplam mesafe: 40.91 km
+2025-09-28 12:52:06,798 - controllers.vrp_controller - INFO - Toplam maliyet: 102.28 TL
+2025-09-28 12:52:06,798 - controllers.vrp_controller - INFO - Cozum suresi: 0.03 saniye
+2025-09-28 12:52:06,800 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 12:52:06] "POST /api/vrp/solve HTTP/1.1" 200 -
+2025-09-28 12:52:06,899 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 12:52:06] "OPTIONS /api/directions HTTP/1.1" 200 -
+2025-09-28 12:52:08,110 - services.maps_service - INFO - Directions API request successful
+2025-09-28 12:52:08,113 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 12:52:08] "POST /api/directions HTTP/1.1" 200 -
+2025-09-28 12:52:08,773 - services.maps_service - INFO - Directions API request successful
+2025-09-28 12:52:08,775 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 12:52:08] "POST /api/directions HTTP/1.1" 200 -
+2025-09-28 12:52:09,966 - services.maps_service - INFO - Directions API request successful
+2025-09-28 12:52:09,976 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 12:52:09] "POST /api/directions HTTP/1.1" 200 -
+2025-09-28 12:52:42,140 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 12:52:42] "OPTIONS /api/vrp/solve HTTP/1.1" 200 -
+2025-09-28 12:52:42,450 - controllers.vrp_controller - INFO - VRP cozumu baslatiliyor...
+2025-09-28 12:52:42,450 - controllers.vrp_controller - INFO - Depot: Coordinate(lat=41.009309344707916, lng=28.957466107871635)
+2025-09-28 12:52:42,450 - controllers.vrp_controller - INFO - Musteriler: 4
+2025-09-28 12:52:42,451 - controllers.vrp_controller - INFO - Araclar: 3
+2025-09-28 12:52:42,451 - controllers.vrp_controller - INFO - Max solving time: 30s
+2025-09-28 12:52:42,451 - controllers.vrp_controller - INFO - Time windows: False
+2025-09-28 12:52:42,451 - controllers.vrp_controller - INFO - Objective: balanced
+2025-09-28 12:52:42,452 - controllers.vrp_controller - INFO - Algorithm: ortools
+2025-09-28 12:52:42,452 - services.vrp_service - INFO - Starting VRP solving
+2025-09-28 12:52:42,452 - services.vrp_service - INFO - Creating data model for 4 customers and 3 vehicles
+2025-09-28 12:52:42,453 - services.vrp_service - INFO - Data model created: 5x5 distance matrix
+2025-09-28 12:52:42,457 - services.vrp_service - INFO - Solution found with 3 vehicles
+2025-09-28 12:52:42,457 - services.vrp_service - INFO - VRP solving completed in 0.01 seconds
+2025-09-28 12:52:42,458 - controllers.vrp_controller - INFO - VRP cozumu tamamlandi: 1 arac, 4 musteri
+2025-09-28 12:52:42,459 - controllers.vrp_controller - INFO - Toplam mesafe: 170.19 km
+2025-09-28 12:52:42,459 - controllers.vrp_controller - INFO - Toplam maliyet: 425.47 TL
+2025-09-28 12:52:42,459 - controllers.vrp_controller - INFO - Cozum suresi: 0.01 saniye
+2025-09-28 12:52:42,460 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 12:52:42] "POST /api/vrp/solve HTTP/1.1" 200 -
+2025-09-28 12:52:42,706 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 12:52:42] "OPTIONS /api/directions HTTP/1.1" 200 -
+2025-09-28 12:52:43,706 - services.maps_service - INFO - Directions API request successful
+2025-09-28 12:52:43,711 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 12:52:43] "POST /api/directions HTTP/1.1" 200 -
+2025-09-28 12:52:44,630 - services.maps_service - INFO - Directions API request successful
+2025-09-28 12:52:44,636 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 12:52:44] "POST /api/directions HTTP/1.1" 200 -
+2025-09-28 12:52:45,936 - services.maps_service - INFO - Directions API request successful
+2025-09-28 12:52:45,938 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 12:52:45] "POST /api/directions HTTP/1.1" 200 -
+2025-09-28 12:52:46,306 - controllers.vrp_controller - INFO - VRP cozumu baslatiliyor...
+2025-09-28 12:52:46,306 - controllers.vrp_controller - INFO - Depot: Coordinate(lat=41.009309344707916, lng=28.957466107871635)
+2025-09-28 12:52:46,306 - controllers.vrp_controller - INFO - Musteriler: 4
+2025-09-28 12:52:46,307 - controllers.vrp_controller - INFO - Araclar: 3
+2025-09-28 12:52:46,307 - controllers.vrp_controller - INFO - Max solving time: 30s
+2025-09-28 12:52:46,307 - controllers.vrp_controller - INFO - Time windows: False
+2025-09-28 12:52:46,307 - controllers.vrp_controller - INFO - Objective: balanced
+2025-09-28 12:52:46,307 - controllers.vrp_controller - INFO - Algorithm: ortools
+2025-09-28 12:52:46,308 - services.vrp_service - INFO - Starting VRP solving
+2025-09-28 12:52:46,308 - services.vrp_service - INFO - Creating data model for 4 customers and 3 vehicles
+2025-09-28 12:52:46,308 - services.vrp_service - INFO - Data model created: 5x5 distance matrix
+2025-09-28 12:52:46,310 - services.vrp_service - INFO - Solution found with 3 vehicles
+2025-09-28 12:52:46,310 - services.vrp_service - INFO - VRP solving completed in 0.00 seconds
+2025-09-28 12:52:46,310 - controllers.vrp_controller - INFO - VRP cozumu tamamlandi: 1 arac, 4 musteri
+2025-09-28 12:52:46,310 - controllers.vrp_controller - INFO - Toplam mesafe: 170.19 km
+2025-09-28 12:52:46,311 - controllers.vrp_controller - INFO - Toplam maliyet: 425.47 TL
+2025-09-28 12:52:46,311 - controllers.vrp_controller - INFO - Cozum suresi: 0.0 saniye
+2025-09-28 12:52:46,312 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 12:52:46] "POST /api/vrp/solve HTTP/1.1" 200 -
+2025-09-28 12:52:47,525 - services.maps_service - INFO - Directions API request successful
+2025-09-28 12:52:47,531 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 12:52:47] "POST /api/directions HTTP/1.1" 200 -
+2025-09-28 12:52:48,432 - services.maps_service - INFO - Directions API request successful
+2025-09-28 12:52:48,436 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 12:52:48] "POST /api/directions HTTP/1.1" 200 -
+2025-09-28 12:52:48,758 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 12:52:48] "OPTIONS /api/directions HTTP/1.1" 200 -
+2025-09-28 12:52:50,237 - services.maps_service - INFO - Directions API request successful
+2025-09-28 12:52:50,247 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 12:52:50] "POST /api/directions HTTP/1.1" 200 -
+2025-09-28 12:53:58,304 - werkzeug - INFO -  * Detected change in 'D:\\React-Proje\\vrp-solver\\backend\\services\\gemini_service.py', reloading
+2025-09-28 12:53:58,377 - werkzeug - INFO -  * Restarting with stat
+2025-09-28 12:53:59,047 - __main__ - INFO - Advanced VRP Backend (Modular) starting...
+2025-09-28 12:53:59,085 - werkzeug - WARNING -  * Debugger is active!
+2025-09-28 12:53:59,090 - werkzeug - INFO -  * Debugger PIN: 881-199-026
+2025-09-28 12:54:03,142 - werkzeug - INFO -  * Detected change in 'D:\\React-Proje\\vrp-solver\\backend\\controllers\\vrp_controller.py', reloading
+2025-09-28 12:54:03,242 - werkzeug - INFO -  * Restarting with stat
+2025-09-28 13:00:20,057 - __main__ - INFO - Advanced VRP Backend (Modular) starting...
+2025-09-28 13:00:20,953 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.110:5000
+2025-09-28 13:00:20,953 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-09-28 13:00:20,955 - werkzeug - INFO -  * Restarting with stat
+2025-09-28 13:00:22,273 - __main__ - INFO - Advanced VRP Backend (Modular) starting...
+2025-09-28 13:00:22,291 - werkzeug - WARNING -  * Debugger is active!
+2025-09-28 13:00:22,295 - werkzeug - INFO -  * Debugger PIN: 881-199-026
+2025-09-28 13:00:25,200 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 13:00:25] "OPTIONS /api/vrp/solve HTTP/1.1" 200 -
+2025-09-28 13:00:25,457 - controllers.vrp_controller - INFO - VRP cozumu baslatiliyor...
+2025-09-28 13:00:25,458 - controllers.vrp_controller - INFO - Depot: Coordinate(lat=41.009309344707916, lng=28.957466107871635)
+2025-09-28 13:00:25,458 - controllers.vrp_controller - INFO - Musteriler: 4
+2025-09-28 13:00:25,458 - controllers.vrp_controller - INFO - Araclar: 3
+2025-09-28 13:00:25,458 - controllers.vrp_controller - INFO - Max solving time: 30s
+2025-09-28 13:00:25,459 - controllers.vrp_controller - INFO - Time windows: False
+2025-09-28 13:00:25,459 - controllers.vrp_controller - INFO - Objective: balanced
+2025-09-28 13:00:25,459 - controllers.vrp_controller - INFO - Algorithm: ortools
+2025-09-28 13:00:25,459 - services.vrp_service - INFO - Starting VRP solving
+2025-09-28 13:00:25,460 - services.vrp_service - INFO - Creating data model for 4 customers and 3 vehicles
+2025-09-28 13:00:25,460 - services.vrp_service - INFO - Data model created: 5x5 distance matrix
+2025-09-28 13:00:25,479 - services.vrp_service - INFO - Solution found with 3 vehicles
+2025-09-28 13:00:25,480 - services.vrp_service - INFO - VRP solving completed in 0.02 seconds
+2025-09-28 13:00:25,482 - controllers.vrp_controller - INFO - VRP cozumu tamamlandi: 1 arac, 4 musteri
+2025-09-28 13:00:25,482 - controllers.vrp_controller - INFO - Toplam mesafe: 170.19 km
+2025-09-28 13:00:25,483 - controllers.vrp_controller - INFO - Toplam maliyet: 425.47 TL
+2025-09-28 13:00:25,483 - controllers.vrp_controller - INFO - Cozum suresi: 0.02 saniye
+2025-09-28 13:00:25,484 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 13:00:25] "POST /api/vrp/solve HTTP/1.1" 200 -
+2025-09-28 13:00:25,543 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 13:00:25] "OPTIONS /api/directions HTTP/1.1" 200 -
+2025-09-28 13:00:26,500 - services.maps_service - INFO - Directions API request successful
+2025-09-28 13:00:26,503 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 13:00:26] "POST /api/directions HTTP/1.1" 200 -
+2025-09-28 13:00:27,078 - services.maps_service - INFO - Directions API request successful
+2025-09-28 13:00:27,080 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 13:00:27] "POST /api/directions HTTP/1.1" 200 -
+2025-09-28 13:00:28,390 - services.maps_service - INFO - Directions API request successful
+2025-09-28 13:00:28,392 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 13:00:28] "POST /api/directions HTTP/1.1" 200 -
+2025-09-28 13:00:52,570 - werkzeug - INFO -  * Detected change in 'D:\\React-Proje\\vrp-solver\\backend\\services\\gemini_service.py', reloading
+2025-09-28 13:00:52,780 - werkzeug - INFO -  * Restarting with stat
+2025-09-28 13:00:54,483 - __main__ - INFO - Advanced VRP Backend (Modular) starting...
+2025-09-28 13:00:54,523 - werkzeug - WARNING -  * Debugger is active!
+2025-09-28 13:00:54,533 - werkzeug - INFO -  * Debugger PIN: 881-199-026
+2025-09-28 13:00:56,582 - werkzeug - INFO -  * Detected change in 'D:\\React-Proje\\vrp-solver\\backend\\services\\gemini_service.py', reloading
+2025-09-28 13:00:56,975 - werkzeug - INFO -  * Restarting with stat
+2025-09-28 13:00:59,284 - __main__ - INFO - Advanced VRP Backend (Modular) starting...
+2025-09-28 13:00:59,318 - werkzeug - WARNING -  * Debugger is active!
+2025-09-28 13:00:59,325 - werkzeug - INFO -  * Debugger PIN: 881-199-026
+2025-09-28 13:01:00,785 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 13:01:00] "OPTIONS /api/vrp/solve HTTP/1.1" 200 -
+2025-09-28 13:01:01,026 - controllers.vrp_controller - INFO - VRP cozumu baslatiliyor...
+2025-09-28 13:01:01,027 - controllers.vrp_controller - INFO - Depot: Coordinate(lat=41.009309344707916, lng=28.957466107871635)
+2025-09-28 13:01:01,027 - controllers.vrp_controller - INFO - Musteriler: 4
+2025-09-28 13:01:01,027 - controllers.vrp_controller - INFO - Araclar: 3
+2025-09-28 13:01:01,028 - controllers.vrp_controller - INFO - Max solving time: 30s
+2025-09-28 13:01:01,028 - controllers.vrp_controller - INFO - Time windows: False
+2025-09-28 13:01:01,029 - controllers.vrp_controller - INFO - Objective: balanced
+2025-09-28 13:01:01,029 - controllers.vrp_controller - INFO - Algorithm: ortools
+2025-09-28 13:01:01,029 - services.vrp_service - INFO - Starting VRP solving
+2025-09-28 13:01:01,030 - services.vrp_service - INFO - Creating data model for 4 customers and 3 vehicles
+2025-09-28 13:01:01,030 - services.vrp_service - INFO - Data model created: 5x5 distance matrix
+2025-09-28 13:01:01,065 - services.vrp_service - INFO - Solution found with 3 vehicles
+2025-09-28 13:01:01,066 - services.vrp_service - INFO - VRP solving completed in 0.04 seconds
+2025-09-28 13:01:01,068 - controllers.vrp_controller - INFO - VRP cozumu tamamlandi: 1 arac, 4 musteri
+2025-09-28 13:01:01,069 - controllers.vrp_controller - INFO - Toplam mesafe: 170.19 km
+2025-09-28 13:01:01,070 - controllers.vrp_controller - INFO - Toplam maliyet: 425.47 TL
+2025-09-28 13:01:01,071 - controllers.vrp_controller - INFO - Cozum suresi: 0.04 saniye
+2025-09-28 13:01:01,074 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 13:01:01] "POST /api/vrp/solve HTTP/1.1" 200 -
+2025-09-28 13:01:01,180 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 13:01:01] "OPTIONS /api/directions HTTP/1.1" 200 -
+2025-09-28 13:01:02,575 - services.maps_service - INFO - Directions API request successful
+2025-09-28 13:01:02,581 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 13:01:02] "POST /api/directions HTTP/1.1" 200 -
+2025-09-28 13:01:03,478 - services.maps_service - INFO - Directions API request successful
+2025-09-28 13:01:03,482 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 13:01:03] "POST /api/directions HTTP/1.1" 200 -
+2025-09-28 13:01:04,413 - werkzeug - INFO -  * Detected change in 'D:\\React-Proje\\vrp-solver\\backend\\services\\gemini_service.py', reloading
+2025-09-28 13:01:04,900 - werkzeug - INFO -  * Restarting with stat
+2025-09-28 13:01:07,442 - __main__ - INFO - Advanced VRP Backend (Modular) starting...
+2025-09-28 13:01:07,471 - werkzeug - WARNING -  * Debugger is active!
+2025-09-28 13:01:07,477 - werkzeug - INFO -  * Debugger PIN: 881-199-026
+2025-09-28 13:01:14,554 - werkzeug - INFO -  * Detected change in 'D:\\React-Proje\\vrp-solver\\backend\\services\\gemini_service.py', reloading
+2025-09-28 13:01:14,697 - werkzeug - INFO -  * Restarting with stat
+2025-09-28 13:01:15,928 - __main__ - INFO - Advanced VRP Backend (Modular) starting...
+2025-09-28 13:01:15,947 - werkzeug - WARNING -  * Debugger is active!
+2025-09-28 13:01:15,951 - werkzeug - INFO -  * Debugger PIN: 881-199-026
+2025-09-28 13:01:18,936 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 13:01:18] "OPTIONS /api/vrp/solve HTTP/1.1" 200 -
+2025-09-28 13:01:19,189 - controllers.vrp_controller - INFO - VRP cozumu baslatiliyor...
+2025-09-28 13:01:19,190 - controllers.vrp_controller - INFO - Depot: Coordinate(lat=41.009309344707916, lng=28.957466107871635)
+2025-09-28 13:01:19,190 - controllers.vrp_controller - INFO - Musteriler: 4
+2025-09-28 13:01:19,191 - controllers.vrp_controller - INFO - Araclar: 3
+2025-09-28 13:01:19,191 - controllers.vrp_controller - INFO - Max solving time: 30s
+2025-09-28 13:01:19,191 - controllers.vrp_controller - INFO - Time windows: False
+2025-09-28 13:01:19,191 - controllers.vrp_controller - INFO - Objective: balanced
+2025-09-28 13:01:19,192 - controllers.vrp_controller - INFO - Algorithm: ortools
+2025-09-28 13:01:19,192 - services.vrp_service - INFO - Starting VRP solving
+2025-09-28 13:01:19,193 - services.vrp_service - INFO - Creating data model for 4 customers and 3 vehicles
+2025-09-28 13:01:19,194 - services.vrp_service - INFO - Data model created: 5x5 distance matrix
+2025-09-28 13:01:19,222 - services.vrp_service - INFO - Solution found with 3 vehicles
+2025-09-28 13:01:19,222 - services.vrp_service - INFO - VRP solving completed in 0.03 seconds
+2025-09-28 13:01:19,225 - controllers.vrp_controller - INFO - VRP cozumu tamamlandi: 1 arac, 4 musteri
+2025-09-28 13:01:19,226 - controllers.vrp_controller - INFO - Toplam mesafe: 170.19 km
+2025-09-28 13:01:19,227 - controllers.vrp_controller - INFO - Toplam maliyet: 425.47 TL
+2025-09-28 13:01:19,256 - controllers.vrp_controller - INFO - Cozum suresi: 0.03 saniye
+2025-09-28 13:01:19,283 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 13:01:19] "POST /api/vrp/solve HTTP/1.1" 200 -
+2025-09-28 13:01:19,397 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 13:01:19] "OPTIONS /api/directions HTTP/1.1" 200 -
+2025-09-28 13:01:20,672 - services.maps_service - INFO - Directions API request successful
+2025-09-28 13:01:20,677 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 13:01:20] "POST /api/directions HTTP/1.1" 200 -
+2025-09-28 13:01:21,253 - services.maps_service - INFO - Directions API request successful
+2025-09-28 13:01:21,256 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 13:01:21] "POST /api/directions HTTP/1.1" 200 -
+2025-09-28 13:01:22,739 - services.maps_service - INFO - Directions API request successful
+2025-09-28 13:01:22,742 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 13:01:22] "POST /api/directions HTTP/1.1" 200 -
+2025-09-28 13:01:42,474 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 13:01:42] "OPTIONS /api/directions HTTP/1.1" 200 -
+2025-09-28 13:01:42,785 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 13:01:42] "OPTIONS /api/directions HTTP/1.1" 200 -
+2025-09-28 13:01:43,682 - services.maps_service - INFO - Directions API request successful
+2025-09-28 13:01:43,690 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 13:01:43] "POST /api/directions HTTP/1.1" 200 -
+2025-09-28 13:01:44,124 - services.maps_service - INFO - Directions API request successful
+2025-09-28 13:01:44,129 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 13:01:44] "POST /api/directions HTTP/1.1" 200 -
+2025-09-28 13:01:45,033 - services.maps_service - INFO - Directions API request successful
+2025-09-28 13:01:45,041 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 13:01:45] "POST /api/directions HTTP/1.1" 200 -
+2025-09-28 13:01:45,689 - services.maps_service - INFO - Directions API request successful
+2025-09-28 13:01:45,691 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 13:01:45] "POST /api/directions HTTP/1.1" 200 -
+2025-09-28 13:01:46,348 - services.maps_service - INFO - Directions API request successful
+2025-09-28 13:01:46,352 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 13:01:46] "POST /api/directions HTTP/1.1" 200 -
+2025-09-28 13:01:46,969 - services.maps_service - INFO - Directions API request successful
+2025-09-28 13:01:46,972 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 13:01:46] "POST /api/directions HTTP/1.1" 200 -
+2025-09-28 13:02:35,551 - werkzeug - INFO -  * Detected change in 'D:\\React-Proje\\vrp-solver\\backend\\services\\vrp_service.py', reloading
+2025-09-28 13:02:35,772 - werkzeug - INFO -  * Restarting with stat
+2025-09-28 13:02:37,309 - __main__ - INFO - Advanced VRP Backend (Modular) starting...
+2025-09-28 13:02:37,346 - werkzeug - WARNING -  * Debugger is active!
+2025-09-28 13:02:37,351 - werkzeug - INFO -  * Debugger PIN: 881-199-026
+2025-09-28 13:02:40,402 - werkzeug - INFO -  * Detected change in 'D:\\React-Proje\\vrp-solver\\backend\\services\\vrp_service.py', reloading
+2025-09-28 13:02:40,683 - werkzeug - INFO -  * Restarting with stat
+2025-09-28 13:02:42,165 - __main__ - INFO - Advanced VRP Backend (Modular) starting...
+2025-09-28 13:02:42,184 - werkzeug - WARNING -  * Debugger is active!
+2025-09-28 13:02:42,188 - werkzeug - INFO -  * Debugger PIN: 881-199-026
+2025-09-28 13:02:47,246 - werkzeug - INFO -  * Detected change in 'D:\\React-Proje\\vrp-solver\\backend\\services\\vrp_service.py', reloading
+2025-09-28 13:02:47,432 - werkzeug - INFO -  * Restarting with stat
+2025-09-28 13:02:49,106 - __main__ - INFO - Advanced VRP Backend (Modular) starting...
+2025-09-28 13:02:49,152 - werkzeug - WARNING -  * Debugger is active!
+2025-09-28 13:02:49,162 - werkzeug - INFO -  * Debugger PIN: 881-199-026
+2025-09-28 13:02:54,229 - werkzeug - INFO -  * Detected change in 'D:\\React-Proje\\vrp-solver\\backend\\services\\vrp_service.py', reloading
+2025-09-28 13:02:54,375 - werkzeug - INFO -  * Restarting with stat
+2025-09-28 13:02:55,962 - __main__ - INFO - Advanced VRP Backend (Modular) starting...
+2025-09-28 13:02:55,994 - werkzeug - WARNING -  * Debugger is active!
+2025-09-28 13:02:56,002 - werkzeug - INFO -  * Debugger PIN: 881-199-026
+2025-09-28 13:02:57,526 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 13:02:57] "OPTIONS /api/vrp/solve HTTP/1.1" 200 -
+2025-09-28 13:02:57,779 - controllers.vrp_controller - INFO - VRP cozumu baslatiliyor...
+2025-09-28 13:02:57,780 - controllers.vrp_controller - INFO - Depot: Coordinate(lat=41.009309344707916, lng=28.957466107871635)
+2025-09-28 13:02:57,780 - controllers.vrp_controller - INFO - Musteriler: 4
+2025-09-28 13:02:57,780 - controllers.vrp_controller - INFO - Araclar: 3
+2025-09-28 13:02:57,781 - controllers.vrp_controller - INFO - Max solving time: 30s
+2025-09-28 13:02:57,781 - controllers.vrp_controller - INFO - Time windows: False
+2025-09-28 13:02:57,782 - controllers.vrp_controller - INFO - Objective: balanced
+2025-09-28 13:02:57,782 - controllers.vrp_controller - INFO - Algorithm: ortools
+2025-09-28 13:02:57,782 - services.vrp_service - INFO - Starting VRP solving
+2025-09-28 13:02:57,783 - services.vrp_service - INFO - Creating data model for 4 customers and 3 vehicles
+2025-09-28 13:02:57,783 - services.vrp_service - INFO - Data model created: 5x5 distance matrix
+2025-09-28 13:02:57,819 - services.vrp_service - INFO - Solution found with 3 vehicles
+2025-09-28 13:02:57,820 - services.vrp_service - INFO - VRP solving completed in 0.04 seconds
+2025-09-28 13:02:57,823 - controllers.vrp_controller - INFO - VRP cozumu tamamlandi: 1 arac, 4 musteri
+2025-09-28 13:02:57,851 - controllers.vrp_controller - INFO - Toplam mesafe: 170.19 km
+2025-09-28 13:02:57,873 - controllers.vrp_controller - INFO - Toplam maliyet: 425.47 TL
+2025-09-28 13:02:57,901 - controllers.vrp_controller - INFO - Cozum suresi: 0.04 saniye
+2025-09-28 13:02:57,910 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 13:02:57] "POST /api/vrp/solve HTTP/1.1" 200 -
+2025-09-28 13:02:58,008 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 13:02:58] "OPTIONS /api/directions HTTP/1.1" 200 -
+2025-09-28 13:02:59,561 - services.maps_service - INFO - Directions API request successful
+2025-09-28 13:02:59,563 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 13:02:59] "POST /api/directions HTTP/1.1" 200 -
+2025-09-28 13:03:18,204 - werkzeug - INFO -  * Detected change in 'D:\\React-Proje\\vrp-solver\\backend\\services\\vrp_service.py', reloading
+2025-09-28 13:03:18,412 - werkzeug - INFO -  * Restarting with stat
+2025-09-28 13:03:19,782 - __main__ - INFO - Advanced VRP Backend (Modular) starting...
+2025-09-28 13:03:19,800 - werkzeug - WARNING -  * Debugger is active!
+2025-09-28 13:03:19,805 - werkzeug - INFO -  * Debugger PIN: 881-199-026
+2025-09-28 13:03:25,872 - werkzeug - INFO -  * Detected change in 'D:\\React-Proje\\vrp-solver\\backend\\services\\gemini_service.py', reloading
+2025-09-28 13:03:26,080 - werkzeug - INFO -  * Restarting with stat
+2025-09-28 13:03:27,618 - __main__ - INFO - Advanced VRP Backend (Modular) starting...
+2025-09-28 13:03:27,659 - werkzeug - WARNING -  * Debugger is active!
+2025-09-28 13:03:27,666 - werkzeug - INFO -  * Debugger PIN: 881-199-026
+2025-09-28 13:03:32,730 - werkzeug - INFO -  * Detected change in 'D:\\React-Proje\\vrp-solver\\backend\\services\\gemini_service.py', reloading
+2025-09-28 13:03:33,003 - werkzeug - INFO -  * Restarting with stat
+2025-09-28 13:03:35,132 - __main__ - INFO - Advanced VRP Backend (Modular) starting...
+2025-09-28 13:03:35,167 - werkzeug - WARNING -  * Debugger is active!
+2025-09-28 13:03:35,173 - werkzeug - INFO -  * Debugger PIN: 881-199-026
+2025-09-28 13:03:47,295 - werkzeug - INFO -  * Detected change in 'D:\\React-Proje\\vrp-solver\\backend\\services\\simple_vrp_service.py', reloading
+2025-09-28 13:03:47,407 - werkzeug - INFO -  * Restarting with stat
+2025-09-28 13:03:49,308 - __main__ - INFO - Advanced VRP Backend (Modular) starting...
+2025-09-28 13:03:49,345 - werkzeug - WARNING -  * Debugger is active!
+2025-09-28 13:03:49,351 - werkzeug - INFO -  * Debugger PIN: 881-199-026
+2025-09-28 13:03:52,404 - werkzeug - INFO -  * Detected change in 'D:\\React-Proje\\vrp-solver\\backend\\controllers\\vrp_controller.py', reloading
+2025-09-28 13:03:52,658 - werkzeug - INFO -  * Restarting with stat
+2025-09-28 13:03:54,242 - __main__ - INFO - Advanced VRP Backend (Modular) starting...
+2025-09-28 13:03:54,281 - werkzeug - WARNING -  * Debugger is active!
+2025-09-28 13:03:54,287 - werkzeug - INFO -  * Debugger PIN: 881-199-026
+2025-09-28 13:03:56,326 - werkzeug - INFO -  * Detected change in 'D:\\React-Proje\\vrp-solver\\backend\\controllers\\vrp_controller.py', reloading
+2025-09-28 13:03:56,594 - werkzeug - INFO -  * Restarting with stat
+2025-09-28 13:03:58,201 - __main__ - INFO - Advanced VRP Backend (Modular) starting...
+2025-09-28 13:03:58,235 - werkzeug - WARNING -  * Debugger is active!
+2025-09-28 13:03:58,241 - werkzeug - INFO -  * Debugger PIN: 881-199-026
+2025-09-28 13:04:02,305 - werkzeug - INFO -  * Detected change in 'D:\\React-Proje\\vrp-solver\\backend\\controllers\\vrp_controller.py', reloading
+2025-09-28 13:04:02,587 - werkzeug - INFO -  * Restarting with stat
+2025-09-28 13:04:04,479 - __main__ - INFO - Advanced VRP Backend (Modular) starting...
+2025-09-28 13:04:04,513 - werkzeug - WARNING -  * Debugger is active!
+2025-09-28 13:04:04,517 - werkzeug - INFO -  * Debugger PIN: 881-199-026
+2025-09-28 13:04:11,586 - werkzeug - INFO -  * Detected change in 'D:\\React-Proje\\vrp-solver\\backend\\services\\simple_vrp_service.py', reloading
+2025-09-28 13:04:11,710 - werkzeug - INFO -  * Restarting with stat
+2025-09-28 13:04:12,849 - __main__ - INFO - Advanced VRP Backend (Modular) starting...
+2025-09-28 13:04:12,864 - werkzeug - WARNING -  * Debugger is active!
+2025-09-28 13:04:12,868 - werkzeug - INFO -  * Debugger PIN: 881-199-026
+2025-09-28 13:04:17,297 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 13:04:17] "OPTIONS /api/vrp/solve HTTP/1.1" 200 -
+2025-09-28 13:04:17,554 - controllers.vrp_controller - INFO - VRP cozumu baslatiliyor...
+2025-09-28 13:04:17,555 - controllers.vrp_controller - INFO - Depot: Coordinate(lat=41.009309344707916, lng=28.957466107871635)
+2025-09-28 13:04:17,555 - controllers.vrp_controller - INFO - Musteriler: 4
+2025-09-28 13:04:17,555 - controllers.vrp_controller - INFO - Araclar: 3
+2025-09-28 13:04:17,556 - controllers.vrp_controller - INFO - Max solving time: 30s
+2025-09-28 13:04:17,556 - controllers.vrp_controller - INFO - Time windows: False
+2025-09-28 13:04:17,557 - controllers.vrp_controller - INFO - Objective: balanced
+2025-09-28 13:04:17,557 - controllers.vrp_controller - INFO - Algorithm: ortools
+2025-09-28 13:04:17,558 - controllers.vrp_controller - INFO - Trying OR-Tools first
+2025-09-28 13:04:17,558 - services.vrp_service - INFO - Starting VRP solving
+2025-09-28 13:04:17,558 - services.vrp_service - INFO - Creating data model for 4 customers and 3 vehicles
+2025-09-28 13:04:17,559 - services.vrp_service - INFO - Data model created: 5x5 distance matrix
+2025-09-28 13:04:17,590 - services.vrp_service - INFO - Solution found with 3 vehicles
+2025-09-28 13:04:17,590 - services.vrp_service - INFO - Vehicles actually used: [2]
+2025-09-28 13:04:17,591 - services.vrp_service - INFO - VRP solving completed in 0.03 seconds
+2025-09-28 13:04:17,592 - controllers.vrp_controller - INFO - VRP cozumu tamamlandi: 1 arac, 4 musteri
+2025-09-28 13:04:17,592 - controllers.vrp_controller - INFO - Toplam mesafe: 170.19 km
+2025-09-28 13:04:17,593 - controllers.vrp_controller - INFO - Toplam maliyet: 425.47 TL
+2025-09-28 13:04:17,593 - controllers.vrp_controller - INFO - Cozum suresi: 0.03 saniye
+2025-09-28 13:04:17,595 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 13:04:17] "POST /api/vrp/solve HTTP/1.1" 200 -
+2025-09-28 13:04:17,709 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 13:04:17] "OPTIONS /api/directions HTTP/1.1" 200 -
+2025-09-28 13:04:19,050 - services.maps_service - INFO - Directions API request successful
+2025-09-28 13:04:19,055 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 13:04:19] "POST /api/directions HTTP/1.1" 200 -
+2025-09-28 13:04:41,905 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 13:04:41] "OPTIONS /api/vrp/solve HTTP/1.1" 200 -
+2025-09-28 13:04:42,212 - controllers.vrp_controller - INFO - VRP cozumu baslatiliyor...
+2025-09-28 13:04:42,212 - controllers.vrp_controller - INFO - Depot: Coordinate(lat=41.009309344707916, lng=28.957466107871635)
+2025-09-28 13:04:42,212 - controllers.vrp_controller - INFO - Musteriler: 4
+2025-09-28 13:04:42,213 - controllers.vrp_controller - INFO - Araclar: 3
+2025-09-28 13:04:42,213 - controllers.vrp_controller - INFO - Max solving time: 30s
+2025-09-28 13:04:42,213 - controllers.vrp_controller - INFO - Time windows: False
+2025-09-28 13:04:42,213 - controllers.vrp_controller - INFO - Objective: balanced
+2025-09-28 13:04:42,214 - controllers.vrp_controller - INFO - Algorithm: ortools
+2025-09-28 13:04:42,214 - controllers.vrp_controller - INFO - Trying OR-Tools first
+2025-09-28 13:04:42,214 - services.vrp_service - INFO - Starting VRP solving
+2025-09-28 13:04:42,215 - services.vrp_service - INFO - Creating data model for 4 customers and 3 vehicles
+2025-09-28 13:04:42,215 - services.vrp_service - INFO - Data model created: 5x5 distance matrix
+2025-09-28 13:04:42,218 - services.vrp_service - INFO - Solution found with 3 vehicles
+2025-09-28 13:04:42,219 - services.vrp_service - INFO - Vehicles actually used: [2]
+2025-09-28 13:04:42,219 - services.vrp_service - INFO - VRP solving completed in 0.01 seconds
+2025-09-28 13:04:42,221 - controllers.vrp_controller - INFO - VRP cozumu tamamlandi: 1 arac, 4 musteri
+2025-09-28 13:04:42,221 - controllers.vrp_controller - INFO - Toplam mesafe: 170.19 km
+2025-09-28 13:04:42,222 - controllers.vrp_controller - INFO - Toplam maliyet: 425.47 TL
+2025-09-28 13:04:42,222 - controllers.vrp_controller - INFO - Cozum suresi: 0.01 saniye
+2025-09-28 13:04:42,223 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 13:04:42] "POST /api/vrp/solve HTTP/1.1" 200 -
+2025-09-28 13:04:42,483 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 13:04:42] "OPTIONS /api/directions HTTP/1.1" 200 -
+2025-09-28 13:04:43,783 - services.maps_service - INFO - Directions API request successful
+2025-09-28 13:04:43,787 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 13:04:43] "POST /api/directions HTTP/1.1" 200 -
+2025-09-28 13:05:11,331 - werkzeug - INFO -  * Detected change in 'D:\\React-Proje\\vrp-solver\\backend\\controllers\\vrp_controller.py', reloading
+2025-09-28 13:05:11,608 - werkzeug - INFO -  * Restarting with stat
+2025-09-28 13:05:13,266 - __main__ - INFO - Advanced VRP Backend (Modular) starting...
+2025-09-28 13:05:13,311 - werkzeug - WARNING -  * Debugger is active!
+2025-09-28 13:05:13,317 - werkzeug - INFO -  * Debugger PIN: 881-199-026
+2025-09-28 13:05:22,410 - werkzeug - INFO -  * Detected change in 'D:\\React-Proje\\vrp-solver\\backend\\controllers\\vrp_controller.py', reloading
+2025-09-28 13:05:22,825 - werkzeug - INFO -  * Restarting with stat
+2025-09-28 13:05:25,520 - __main__ - INFO - Advanced VRP Backend (Modular) starting...
+2025-09-28 13:05:25,563 - werkzeug - WARNING -  * Debugger is active!
+2025-09-28 13:05:25,571 - werkzeug - INFO -  * Debugger PIN: 881-199-026
+2025-09-28 13:05:25,602 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 13:05:25] "OPTIONS /api/vrp/solve HTTP/1.1" 200 -
+2025-09-28 13:05:25,608 - controllers.vrp_controller - INFO - VRP cozumu baslatiliyor...
+2025-09-28 13:05:25,610 - controllers.vrp_controller - INFO - Depot: Coordinate(lat=41.009309344707916, lng=28.957466107871635)
+2025-09-28 13:05:25,611 - controllers.vrp_controller - INFO - Musteriler: 4
+2025-09-28 13:05:25,611 - controllers.vrp_controller - INFO - Araclar: 3
+2025-09-28 13:05:25,611 - controllers.vrp_controller - INFO - Max solving time: 30s
+2025-09-28 13:05:25,612 - controllers.vrp_controller - INFO - Time windows: False
+2025-09-28 13:05:25,612 - controllers.vrp_controller - INFO - Objective: balanced
+2025-09-28 13:05:25,612 - controllers.vrp_controller - INFO - Algorithm: ortools
+2025-09-28 13:05:25,613 - controllers.vrp_controller - INFO - Using Simple solver for guaranteed multi-vehicle solution
+2025-09-28 13:05:25,613 - services.simple_vrp_service - INFO - Simple VRP solving started for 4 customers, 3 vehicles
+2025-09-28 13:05:25,614 - services.simple_vrp_service - INFO - Simple VRP solution created: 3 vehicles, 4 customers
+2025-09-28 13:05:25,614 - controllers.vrp_controller - INFO - VRP cozumu tamamlandi: 3 arac, 4 musteri
+2025-09-28 13:05:25,614 - controllers.vrp_controller - INFO - Toplam mesafe: 177.93 km
+2025-09-28 13:05:25,615 - controllers.vrp_controller - INFO - Toplam maliyet: 455.6 TL
+2025-09-28 13:05:25,615 - controllers.vrp_controller - INFO - Cozum suresi: 0.01 saniye
+2025-09-28 13:05:25,617 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 13:05:25] "POST /api/vrp/solve HTTP/1.1" 200 -
+2025-09-28 13:05:26,001 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 13:05:26] "OPTIONS /api/directions HTTP/1.1" 200 -
+2025-09-28 13:05:26,932 - services.maps_service - INFO - Directions API request successful
+2025-09-28 13:05:26,934 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 13:05:26] "POST /api/directions HTTP/1.1" 200 -
+2025-09-28 13:05:27,872 - services.maps_service - INFO - Directions API request successful
+2025-09-28 13:05:27,874 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 13:05:27] "POST /api/directions HTTP/1.1" 200 -
+2025-09-28 13:05:29,067 - services.maps_service - INFO - Directions API request successful
+2025-09-28 13:05:29,071 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 13:05:29] "POST /api/directions HTTP/1.1" 200 -
+2025-09-28 13:07:01,597 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 13:07:01] "OPTIONS /api/vrp/solve HTTP/1.1" 200 -
+2025-09-28 13:07:01,854 - controllers.vrp_controller - INFO - VRP cozumu baslatiliyor...
+2025-09-28 13:07:01,855 - controllers.vrp_controller - INFO - Depot: Coordinate(lat=41.0082, lng=28.9784)
+2025-09-28 13:07:01,855 - controllers.vrp_controller - INFO - Musteriler: 2
+2025-09-28 13:07:01,856 - controllers.vrp_controller - INFO - Araclar: 3
+2025-09-28 13:07:01,857 - controllers.vrp_controller - INFO - Max solving time: 30s
+2025-09-28 13:07:01,857 - controllers.vrp_controller - INFO - Time windows: False
+2025-09-28 13:07:01,858 - controllers.vrp_controller - INFO - Objective: balanced
+2025-09-28 13:07:01,858 - controllers.vrp_controller - INFO - Algorithm: ortools
+2025-09-28 13:07:01,859 - controllers.vrp_controller - INFO - Using Simple solver for guaranteed multi-vehicle solution
+2025-09-28 13:07:01,859 - services.simple_vrp_service - INFO - Simple VRP solving started for 2 customers, 3 vehicles
+2025-09-28 13:07:01,860 - services.simple_vrp_service - INFO - Simple VRP solution created: 2 vehicles, 2 customers
+2025-09-28 13:07:01,860 - controllers.vrp_controller - INFO - VRP cozumu tamamlandi: 2 arac, 2 musteri
+2025-09-28 13:07:01,861 - controllers.vrp_controller - INFO - Toplam mesafe: 22.18 km
+2025-09-28 13:07:01,861 - controllers.vrp_controller - INFO - Toplam maliyet: 67.13 TL
+2025-09-28 13:07:01,861 - controllers.vrp_controller - INFO - Cozum suresi: 0.01 saniye
+2025-09-28 13:07:01,863 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 13:07:01] "POST /api/vrp/solve HTTP/1.1" 200 -
+2025-09-28 13:07:01,949 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 13:07:01] "OPTIONS /api/directions HTTP/1.1" 200 -
+2025-09-28 13:07:03,324 - services.maps_service - INFO - Directions API request successful
+2025-09-28 13:07:03,327 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 13:07:03] "POST /api/directions HTTP/1.1" 200 -
+2025-09-28 13:07:04,359 - services.maps_service - INFO - Directions API request successful
+2025-09-28 13:07:04,364 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 13:07:04] "POST /api/directions HTTP/1.1" 200 -
+2025-09-28 13:08:55,233 - werkzeug - INFO -  * Detected change in 'D:\\React-Proje\\vrp-solver\\backend\\functions\\directions.py', reloading
+2025-09-28 13:08:55,608 - werkzeug - INFO -  * Restarting with stat
+2025-09-28 13:08:57,207 - __main__ - INFO - Advanced VRP Backend (Modular) starting...
+2025-09-28 13:08:57,241 - werkzeug - WARNING -  * Debugger is active!
+2025-09-28 13:08:57,246 - werkzeug - INFO -  * Debugger PIN: 881-199-026
+2025-09-28 13:09:01,304 - werkzeug - INFO -  * Detected change in 'D:\\React-Proje\\vrp-solver\\backend\\app.py', reloading
+2025-09-28 13:09:01,594 - werkzeug - INFO -  * Restarting with stat
+2025-09-28 13:09:03,720 - __main__ - INFO - Advanced VRP Backend (Modular) starting...
+2025-09-28 13:09:03,751 - werkzeug - WARNING -  * Debugger is active!
+2025-09-28 13:09:03,755 - werkzeug - INFO -  * Debugger PIN: 881-199-026
+2025-09-28 13:09:05,795 - werkzeug - INFO -  * Detected change in 'D:\\React-Proje\\vrp-solver\\backend\\app.py', reloading
+2025-09-28 13:09:06,045 - werkzeug - INFO -  * Restarting with stat
+2025-09-28 13:09:07,579 - __main__ - INFO - Advanced VRP Backend (Modular) starting...
+2025-09-28 13:09:07,596 - werkzeug - WARNING -  * Debugger is active!
+2025-09-28 13:09:07,600 - werkzeug - INFO -  * Debugger PIN: 881-199-026
+2025-09-28 13:09:24,752 - werkzeug - INFO -  * Detected change in 'D:\\React-Proje\\vrp-solver\\backend\\functions\\vrp-solve.py', reloading
+2025-09-28 13:09:24,871 - werkzeug - INFO -  * Restarting with stat
+2025-09-28 13:09:26,042 - __main__ - INFO - Advanced VRP Backend (Modular) starting...
+2025-09-28 13:09:26,058 - werkzeug - WARNING -  * Debugger is active!
+2025-09-28 13:09:26,061 - werkzeug - INFO -  * Debugger PIN: 881-199-026
